@@ -1,0 +1,54 @@
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+title: Dr. Vipul Arora
+
+baseurl: "/vipular" # the subpath of the site
+url:  # the base hostname & protocol for the site
+og_image: /assets/img/profile-pic.jpg
+
+
+header:
+  pages:
+    - name: Home
+      slug: /
+    - name: Publications
+    - name: Teaching
+    - name: Resources
+
+
+footer:
+
+  contact:
+    - name: Email
+      value: vipular@iitk.ac.in
+      link: mailto:vipular@iitk.ac.in
+
+  follow:
+
+    - name: GitHub
+      link: http://github.com/vipular
+
+
+# Build settings
+markdown: kramdown
+sass:
+    style: :compressed
+plugins:
+  - jekyll-feed
+
+# Excluded items
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - feed.xml
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Used for defeating caching
+version: 1

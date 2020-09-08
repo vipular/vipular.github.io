@@ -1,0 +1,8 @@
+table, th, td {
+  border: 1px solid rgb(187, 185, 185);
+}
+tr:nth-child(even){background-color: #f7f7f7;}
+th, td {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
