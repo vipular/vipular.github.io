@@ -3,8 +3,8 @@
 
 title: Dr. Vipul Arora
 
-baseurl: "/home" # the subpath of the site
-url:  # the base hostname & protocol for the site
+baseurl:  # the subpath of the site
+url:  "vipular"# the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 
 
