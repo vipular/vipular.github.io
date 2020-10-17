@@ -3,7 +3,7 @@
 
 title: Dr. Vipul Arora
 
-baseurl:  "/vipular.github.io"# the subpath of the site
+baseurl:  # the subpath of the site
 url: "https://vipular.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 
