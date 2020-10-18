@@ -3,10 +3,13 @@ layout: home
 title: Publications
 slug: /publications
 ---
+
 ## [<ins>Google Scholar page</ins>](https://scholar.google.co.uk/citations?user=SC9YYPAAAAAJ&amp;hl=en) 
+
 ## <span style="color:orangered">Patents</span>
 * Vipul Arora, Aditi Lahiri and Henning Reetz, "System and Method for Automatic Speech Analysis", WO 2018/193241, filed in Great Britain, April 2017.
 * Vipul Arora, Aditi Lahiri and Henning Reetz, "System and Method for Automatic Speech Analysis", EP3613046A1, European patent office, Feb 2020 (pending)
+
 
 ## <span style="color: orangered">Journal Publications</span>
 
