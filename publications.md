@@ -8,6 +8,7 @@ slug: /publications
 * Vipul Arora, Aditi Lahiri and Henning Reetz, "System and Method for Automatic Speech Analysis", WO 2018/193241, filed in Great Britain, April 2017.
 * Vipul Arora, Aditi Lahiri and Henning Reetz, "System and Method for Automatic Speech Analysis", EP3613046A1, European patent office, Feb 2020 (pending)
 ## <span style="color: orangered">Journal Publications</span>
+* Japneet Singh, Vipul Arora, Vinay Gupta, Mathias S Scheurer, "Generative models for sampling and phase transition indication in spin systems", https://arxiv.org/abs/2006.11868, 2020
 * Tharun Kumar Reddy, Vipul Arora, and Laxmidhar Behera, "HJB based optimal learning scheme for neural networks and its application to brain computer interface", IEEE transactions on Emerging Topics in Computational Intelligence, vol. 4, issue 2, pp. 159-170, April 2020.
 * Tharun Kumar Reddy, Vipul Arora, Laxmidhar Behera, Yukai Wang, Chin-Teng Lin, "Multi-class Fuzzy Time-delay Common Spatio-Spectral Patterns with Fuzzy Information Theoretic optimization for EEG based Regression Problems in Brain Computer Interface (BCI)", IEEE Trans. Fuzzy Systems, vol. 27, issue 10, pp. 1943-1951, October 2019.
 * Tharun Kumar Reddy, Vipul Arora, Satyam Kumar, Laxmidhar Behera, Yukai Wang, Chin-Teng Lin, "Electroencephalogram based reaction time prediction with differential phase synchrony representations using co-operative multi-task deep neural networks", IEEE Trans. Emerging Topics in Computational Intelligence, vol.3, issue 5, pp. 369-379, September 2019.
