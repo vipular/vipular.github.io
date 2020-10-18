@@ -38,6 +38,51 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 | 1 Feb 2019:<br>**Paper accepted in ICASSP 2019**: Vipul Arora, Ming Sun and Chao Wang, "Deep Embeddings for Rare Audio Event Detection With Imbalanced Data", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019. [[pdf]](https://drive.google.com/file/d/1Z7wCbKnz1YqvVVmQF40FeXUGIrpkgY3t/view) [[blog]](https://www.amazon.science/blog/to-correct-imbalances-in-training-data-dont-oversample-cluster) |
 
 <br/>
+PhD students:
+
+Completed
+
+Dr. Tharun Reddy (2020, Brain Computer Interface), Assistant Professor, IIT Dhanbad
+
+Ongoing
+
+Kavya Ranjan Saxena - Music Information Retrieval
+
+Sumit Kumar - Semantic Question Answering
+
+Rahul Kodag - Music Information Retrieval
+
+Vikas Kumar - ML for Physics
+
+Abhishek Jaiswal - Semantic Learning
+
+Adhiraj Banerjee - Semantic Learning
+
+Swati Singh - Cognitive Learning
+
+M Jayasandhya - Cognitive Learning
+
+Masters students:
+
+Completed
+
+Shivam Pal (2020, NLP)
+
+Shivangi Ranjan (2020, Music Information Retrieval), joined Intel
+
+Ongoing
+
+Aman Kumar Sharma - Music Information Retrieval
+
+Jaivardhan Kapoor - ML for Physics
+
+Nishant Kumar - ML with imbalanced data
+
+Swapnil Dey
+
+Jagadeesh K. Babu
+
+ 
 
 ## <span style="color: Green">Contact me:</span>
 **Dr. Vipul Arora**
