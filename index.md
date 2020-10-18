@@ -42,11 +42,11 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 ## <span style="color: Green">PhD students:</span>
 
 
-### <span style="color: Green">Completed</span>
+### <span style="color: Black">Completed</span>
 
 * Dr. Tharun Reddy (2020, Brain Computer Interface), Assistant Professor, IIT Dhanbad
 
-### <span style="color: Green">Ongoing</span>
+### <span style="color: Black">Ongoing</span>
 
 * Kavya Ranjan Saxena - Music Information Retrieval
 
@@ -66,13 +66,13 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 
 ## <span style="color: Green">Masters students:</span>
 
-### <span style="color: Green">Completed</span>
+### <span style="color: Black">Completed</span>
 
 * Shivam Pal (2020, NLP)
 
 * Shivangi Ranjan (2020, Music Information Retrieval), joined Intel
 
-### <span style="color: Green">Ongoing</span>
+### <span style="color: Black">Ongoing</span>
 
 * Aman Kumar Sharma - Music Information Retrieval
 
