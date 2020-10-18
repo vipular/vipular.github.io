@@ -4,7 +4,11 @@ title: Publications
 slug: /publications
 ---
 ## [<ins>Google Scholar page</ins>](https://scholar.google.co.uk/citations?user=SC9YYPAAAAAJ&amp;hl=en)
+## <span style="color:orangered">Patents</span>
+* Vipul Arora, Aditi Lahiri and Henning Reetz, "System and Method for Automatic Speech Analysis", WO 2018/193241, filed in Great Britain, April 2017.
+* Vipul Arora, Aditi Lahiri and Henning Reetz, "System and Method for Automatic Speech Analysis", EP3613046A1, European patent office, Feb 2020 (pending)
 ## <span style="color: orangered">Journal Publications</span>
+* Japneet Singh, Vipul Arora, Vinay Gupta, Mathias S Scheurer, "Generative models for sampling and phase transition indication in spin systems", https://arxiv.org/abs/2006.11868, 2020
 * Tharun Kumar Reddy, Vipul Arora, and Laxmidhar Behera, "HJB based optimal learning scheme for neural networks and its application to brain computer interface", IEEE transactions on Emerging Topics in Computational Intelligence, vol. 4, issue 2, pp. 159-170, April 2020.
 * Tharun Kumar Reddy, Vipul Arora, Laxmidhar Behera, Yukai Wang, Chin-Teng Lin, "Multi-class Fuzzy Time-delay Common Spatio-Spectral Patterns with Fuzzy Information Theoretic optimization for EEG based Regression Problems in Brain Computer Interface (BCI)", IEEE Trans. Fuzzy Systems, vol. 27, issue 10, pp. 1943-1951, October 2019.
 * Tharun Kumar Reddy, Vipul Arora, Satyam Kumar, Laxmidhar Behera, Yukai Wang, Chin-Teng Lin, "Electroencephalogram based reaction time prediction with differential phase synchrony representations using co-operative multi-task deep neural networks", IEEE Trans. Emerging Topics in Computational Intelligence, vol.3, issue 5, pp. 369-379, September 2019.
@@ -34,8 +38,8 @@ slug: /publications
 * Pawan Goyal, Vipul Arora and Laxmidhar Behera, "Analysis of Sanskrit Text: Parsing and Semantic Relations," Sanskrit Computational Linguistics: Revised Selected and Invited Papers, Springer-Verlag, pp 200 - 218, 2009.
 * Pawan Goyal, Vipul Arora, Laxmidhar Behera and Martin McGinnity, "Tagging of Text with Emotion for Emotional Speech Synthesis," in Proc. Information Technology and Telecommunications Conf., GMIT, Galway, pp 111-118, 2008.
 
-## <span style="color:orangered">Patents</span>
-* Aditi Lahiri, Henning Reetz and Vipul Arora, "System and Method for Automatic Speech Analysis", filed in Great Britain, April 2017.
+
+
 
 ## <span style="color:orangered">Other Publications</span>
 * Vipul Arora, Laxmidhar Behera and Ajay Pratap Yadav, "Optimal Convergence Rate in Feed Forward Neural Networks using HJB Equation", arXiv preprint, arXiv:1504.07278 (2015).
