@@ -38,49 +38,51 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 | 1 Feb 2019:<br>**Paper accepted in ICASSP 2019**: Vipul Arora, Ming Sun and Chao Wang, "Deep Embeddings for Rare Audio Event Detection With Imbalanced Data", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019. [[pdf]](https://drive.google.com/file/d/1Z7wCbKnz1YqvVVmQF40FeXUGIrpkgY3t/view) [[blog]](https://www.amazon.science/blog/to-correct-imbalances-in-training-data-dont-oversample-cluster) |
 
 <br/>
-PhD students:
 
-Completed
+## <span style="color: Green">PhD students:</span>
 
-Dr. Tharun Reddy (2020, Brain Computer Interface), Assistant Professor, IIT Dhanbad
 
-Ongoing
+### <span style="color: Green">Completed</span>
 
-Kavya Ranjan Saxena - Music Information Retrieval
+* Dr. Tharun Reddy (2020, Brain Computer Interface), Assistant Professor, IIT Dhanbad
 
-Sumit Kumar - Semantic Question Answering
+### <span style="color: Green">Ongoing</span>
 
-Rahul Kodag - Music Information Retrieval
+* Kavya Ranjan Saxena - Music Information Retrieval
 
-Vikas Kumar - ML for Physics
+* Sumit Kumar - Semantic Question Answering
 
-Abhishek Jaiswal - Semantic Learning
+* Rahul Kodag - Music Information Retrieval
 
-Adhiraj Banerjee - Semantic Learning
+* Vikas Kumar - ML for Physics
 
-Swati Singh - Cognitive Learning
+* Abhishek Jaiswal - Semantic Learning
 
-M Jayasandhya - Cognitive Learning
+* Adhiraj Banerjee - Semantic Learning
 
-Masters students:
+* Swati Singh - Cognitive Learning
 
-Completed
+* M Jayasandhya - Cognitive Learning
 
-Shivam Pal (2020, NLP)
+## <span style="color: Green">Masters students:</span>
 
-Shivangi Ranjan (2020, Music Information Retrieval), joined Intel
+### <span style="color: Green">Completed</span>
 
-Ongoing
+* Shivam Pal (2020, NLP)
 
-Aman Kumar Sharma - Music Information Retrieval
+* Shivangi Ranjan (2020, Music Information Retrieval), joined Intel
 
-Jaivardhan Kapoor - ML for Physics
+### <span style="color: Green">Ongoing</span>
 
-Nishant Kumar - ML with imbalanced data
+* Aman Kumar Sharma - Music Information Retrieval
 
-Swapnil Dey
+* Jaivardhan Kapoor - ML for Physics
 
-Jagadeesh K. Babu
+* Nishant Kumar - ML with imbalanced data
+
+* Swapnil Dey
+
+* Jagadeesh K. Babu
 
  
 
