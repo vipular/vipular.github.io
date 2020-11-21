@@ -13,8 +13,10 @@ header:
     - name: Home
       slug: /
     - name: Publications
+    - name: MadhavLab
     - name: Teaching
     - name: Resources
+    
 
 
 footer:
