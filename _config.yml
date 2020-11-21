@@ -12,9 +12,11 @@ header:
   pages:
     - name: Home
       slug: /
+    - name: MadhavLab
     - name: Publications
     - name: Teaching
     - name: Resources
+   
 
 
 footer:
