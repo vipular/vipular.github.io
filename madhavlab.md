@@ -3,6 +3,7 @@ layout: home
 title: MadhavLab
 slug: /madhavlab
 ---
+<<<<<<< HEAD
 ## <span style="color:blue">Projects</span>
 - [Narottam](https://vipular.github.io/narottam.github.io)
 
@@ -39,3 +40,8 @@ slug: /madhavlab
 * Swapnil Dey
 * Jagadeesh K. Babu
 * Kalpit Yadav
+=======
+## <span style="color: Green">Projects</span>
+
+- [Narottam](https://vipular.github.io/narottam.github.io)
+>>>>>>> 495ee36844a9a3505cc24a87d0860dbf8d52ada1
