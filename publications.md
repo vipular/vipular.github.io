@@ -16,12 +16,15 @@ slug: /publications
 * Vipul Arora and Laxmidhar Behera, "Musical source clustering and identification in polyphonic audio," IEEE/ACM Trans. Audio, Speech, and Lang. Process., vol. 22, no. 6, pp. 1003-1012, June 2014.
 * Vipul Arora and Laxmidhar Behera, "On-line melody extraction from polyphonic audio using harmonic cluster tracking," IEEE Trans. Audio, Speech and Lang. Process., vol. 21, no. 3, pp. 520-530, March 2013.
 
-## <span style="color: orangered">Conference Publications and Book Chapters</span>
+## <span style="color: orangered">Book Chapters</span>
+* Vipul Arora and Henning Reetz, "Automatic Speech Recognition: what phonology can offer" in Lexical Processing of Speech, deGruyter/Mouton, 2017
+
+## <span style="color: orangered">Conference Publications</span>
+* Shivangi Ranjan and Vipul Arora, "A Bioinformatic Method Of Semi-Global Alignment For Query-By-Humming", in IEEE Conference on Information and Communication Technology (CICT), 2020, pp. 1–5
 * Satyam Kumar, Tharun Kumar Reddy, Vipul Arora, and Laxmidhar Behera, "Formulating Divergence Framework For Multiclass Motor Imagery EEG Brain Computer Interface", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020.
 * Vipul Arora, Ming Sun and Chao Wang, "Deep Embeddings for Rare Audio Event Detection With Imbalanced Data", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019. [[pdf]](https://drive.google.com/file/d/1Z7wCbKnz1YqvVVmQF40FeXUGIrpkgY3t/view) [[blog]](https://www.amazon.science/blog/to-correct-imbalances-in-training-data-dont-oversample-cluster)
 * Vipul Arora, Aditi Lahiri and Henning Reetz, "Phonological feature based mispronunciation detection and diagnosis using multitask DNNs and active learning", INTERSPEECH, Stockholm, 2017.
 * Vipul Arora, Laxmidhar Behera, Tharun Reddy and Ajay Pratap Yadav, "HJB Equation Based Learning Scheme for Neural Networks", in International Joint Conference on Neural Networks (IJCNN), May 2017.
-* Vipul Arora and Henning Reetz, "Automatic Speech Recognition: what phonology can offer" in Lexical Processing of Speech, deGruyter/Mouton, 2017
 * Vipul Arora, Aditi Lahiri and Henning Reetz, "Attribute based shared hidden layers for cross-language knowledge transfer", in IEEE Workshop on Spoken Language Technology (SLT), San Diego, California, December 2016
 * Vipul Arora and Laxmidhar Behera, "Instrument identification using PLCA over stretched manifolds," in Proc. National Conf. Communications (NCC), Kanpur, India, February 2014. (Best Paper award) [[ppt]](https://drive.google.com/file/d/0By8wZfM49Y2SUDVjTGJWb1QtaThpV1dpQ3FiUEJoSktPNEtj/view)
 * Vipul Arora and Laxmidhar Behera, "Semi-supervised polyphonic source identification using PLCA based graph clustering," in Proc. Intl. Symp. Music Inf. Retreival (ISMIR), Curitiba, Brazil, November 2013. (Best Student Paper award) [[ppt]](https://drive.google.com/file/d/0By8wZfM49Y2STXFyV2NzQ3VJQVE/view)
@@ -35,9 +38,6 @@ slug: /publications
 * Vipul Arora, Laxmidhar Behera and Pradip Sircar," Singing Voice Synthesis for Indian Classical Raga System," in Proc. Irish Signal and Systems Conf. (ISSC), Dublin, 2009.
 * Pawan Goyal, Vipul Arora and Laxmidhar Behera, "Analysis of Sanskrit Text: Parsing and Semantic Relations," Sanskrit Computational Linguistics: Revised Selected and Invited Papers, Springer-Verlag, pp 200 - 218, 2009.
 * Pawan Goyal, Vipul Arora, Laxmidhar Behera and Martin McGinnity, "Tagging of Text with Emotion for Emotional Speech Synthesis," in Proc. Information Technology and Telecommunications Conf., GMIT, Galway, pp 111-118, 2008.
-
-
-
 
 ## <span style="color:orangered">Other Publications</span>
 * Vipul Arora, Laxmidhar Behera and Ajay Pratap Yadav, "Optimal Convergence Rate in Feed Forward Neural Networks using HJB Equation", arXiv preprint, arXiv:1504.07278 (2015).
