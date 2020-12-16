@@ -11,7 +11,7 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 
 
 ## <span style="color: Green">Opportunities</span>
- - <span style="color: DarkRed">Looking for students with Physics background interested in Machine Learning</span>
+ - <span style="color: DarkRed">Undergraduate students looking for projects with me please see [<ins>this</ins>](https://iitk-my.sharepoint.com/:w:/g/personal/vipular_iitk_ac_in/Eb4MuskFBA9HlN2erjHe40IBivflK4v7Dj1ZNRdYX8id6A?rtime=E22O2beh2Eg)</span>
 
 
 ## <span style="color: green">Research</span>
@@ -63,14 +63,15 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 
 * Shivam Pal (2020, NLP)
 * Shivangi Ranjan (2020, Music Information Retrieval), joined Intel
+* Aman Kumar Sharma (2020, Music Information Retrieval), joined Cisco
 
 ### <span style="color: Black">Ongoing</span>
 
-* Aman Kumar Sharma - Music Information Retrieval
 * Jaivardhan Kapoor - ML for Physics
 * Nishant Kumar - ML with imbalanced data
 * Swapnil Dey
 * Jagadeesh K. Babu
+* Kalpit Yadav
 
 
 ## <span style="color: Green">Contact me:</span>
