@@ -5,13 +5,13 @@ profile_picture:
   alt: website picture
 ---
 ## About me: 
-I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](http://www.iitk.ac.in/ee/) from the [<ins>Indian Institute of Technology (IIT) Kanpur</ins>](http://www.iitk.ac.in/), India. My Ph.D. thesis was entitled "[<ins>Analysis of Pitched Polyphonic Music for Source Transcription</ins>](https://drive.google.com/file/d/0By8wZfM49Y2ScC1vc2lVX0I1c1U/view)", where I worked on analyzing music audio to identify and transcribe different instruments/voices playing simultaneously. During postdoc at Oxford University (UK), I developed [<ins>speech recognition</ins>](https://www.youtube.com/watch?v=Tgr3Y_U9BsQ) systems using linguistic principles, with applications in automatic language teacher and speech recognition for low-resource languages. At Amazon in Boston (USA), I worked on audio classification for developing Alexa [<ins>home security</ins>](https://www.theverge.com/2018/9/20/17883428/amazon-alexa-guard-alarm-ring-smart-home-security-price) system, with research focusing on classification with imbalanced data.
+I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](http://www.iitk.ac.in/ee/) from the [<ins>Indian Institute of Technology (IIT) Kanpur</ins>](http://www.iitk.ac.in/), India. My Ph.D. thesis was titled "[<ins>Analysis of Pitched Polyphonic Music for Source Transcription</ins>](https://drive.google.com/file/d/0By8wZfM49Y2ScC1vc2lVX0I1c1U/view)", where I worked on analyzing music audio to identify and transcribe different instruments/voices playing simultaneously. During postdoc at Oxford University (UK), I developed [<ins>speech recognition</ins>](https://www.youtube.com/watch?v=Tgr3Y_U9BsQ) systems using linguistic principles, with applications in automatic language teacher and speech recognition for low-resource languages. At Amazon in Boston (USA), I worked on audio classification for developing Alexa [<ins>home security</ins>](https://www.theverge.com/2018/9/20/17883428/amazon-alexa-guard-alarm-ring-smart-home-security-price) system, with research focusing on classification with imbalanced data.
 
 <span style="color: blue"><b>Research interests:</b> machine learning, signal processing and optimization</span>
 
 
 ## <span style="color: Green">Opportunities</span>
- - <span style="color: DarkRed">Looking for students with Physics background interested in Machine Learning</span>
+ - <span style="color: DarkRed">Undergraduate students looking for projects with me please see [<ins>this</ins>](https://iitk-my.sharepoint.com/:w:/g/personal/vipular_iitk_ac_in/Eb4MuskFBA9HlN2erjHe40IBivflK4v7Dj1ZNRdYX8id6A?rtime=E22O2beh2Eg)</span>
 
 
 ## <span style="color: green">Research</span>
@@ -39,12 +39,48 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 
 <br/>
 
+## <span style="color: Green">PhD students:</span>
+
+
+### <span style="color: Black">Completed</span>
+
+* Dr. Tharun Reddy (2020, Brain Computer Interface), Assistant Professor, IIT Dhanbad
+
+### <span style="color: Black">Ongoing</span>
+
+* Kavya Ranjan Saxena - Music Information Retrieval
+* Sumit Kumar - Semantic Question Answering
+* Rahul Kodag - Music Information Retrieval
+* Vikas Kumar - ML for Physics
+* Abhishek Jaiswal - Semantic Learning
+* Adhiraj Banerjee - Semantic Learning
+* Swati Singh - Cognitive Learning
+* M Jayasandhya - Cognitive Learning
+
+## <span style="color: Green">Masters students:</span>
+
+### <span style="color: Black">Completed</span>
+
+* Shivam Pal (2020, NLP)
+* Shivangi Ranjan (2020, Music Information Retrieval), joined Intel
+* Aman Kumar Sharma (2020, Music Information Retrieval), joined Cisco
+
+### <span style="color: Black">Ongoing</span>
+
+* Jaivardhan Kapoor - ML for Physics
+* Nishant Kumar - ML with imbalanced data
+* Swapnil Dey
+* Jagadeesh K. Babu
+* Kalpit Yadav
+
+
 ## <span style="color: Green">Contact me:</span>
 **Dr. Vipul Arora**
 <br>Assistant Professor
 <br>Department of Electrical Engineering
 <br>IIT Kanpur
 <br>**Office:** 305D, ACES building 
+<br>**Links:** [Youtube](https://www.youtube.com/channel/UCkbiCBHj4DrTo2SXboR7fOw)
 
 
 
