@@ -49,7 +49,6 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 <br>Department of Electrical Engineering
 <br>IIT Kanpur
 <br>**Office:** 305D, ACES building 
-<br>**Links:** [Youtube](https://www.youtube.com/channel/UCkbiCBHj4DrTo2SXboR7fOw)
 
 
 
