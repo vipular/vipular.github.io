@@ -24,6 +24,7 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 
 ## <span style="color: Green">News:</span>  
 
+| 3 Dec 2020: <br>**Paper accepted in IEEE CICT 2020**: Shivangi Ranjan and Vipul Arora, "A Bioinformatic Method Of Semi-Global Alignment For Query-By-Humming", in IEEE Conference on Information and Communication Technology (CICT), 2020, pp. 1–5 |
 | 24 July 2020: <br>**Clinical BCI Challenge 2020**: Our team (named iBCI) secured overall 2nd position in [Clinical BCI Challenge at IEEE WCCI 2020](https://sites.google.com/view/bci-comp-wcci/) |
 | 9 July 2020: <br>**Grant approved by MPCB**: "Technical Assessment of Low-Cost Sensor based PM2.5 and PM10 Monitoring Network in Maharashtra" |
 | 25 Apr 2020: <br>**SP Cup 2020**: Our team secured 6th position in [IEEE Signal Processing Cup competition 2020](https://signalprocessingsociety.org/community-involvement/signal-processing-cup) |
