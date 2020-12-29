@@ -32,8 +32,8 @@ footer:
     - name: GitHub
       link: http://github.com/vipular
       
-  youtube:
-      username: https://www.youtube.com/c/MADHAVlabIITK
+    - name: YouTube
+      link: https://www.youtube.com/c/MADHAVlabIITK
 
 
 # Build settings
