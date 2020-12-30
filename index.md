@@ -17,10 +17,10 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 ## <span style="color: green">Research</span>
 
 <span style="color: blue">I am focusing mainly on the following areas:</span>                                                                                          
-- Machine learning for music analysis                 
+- Machine learning for audio analysis
+  - speech, music and acoustic events
 - Machine learning for physics                            
-- Machine learning for natural language processing(text)
-
+- Time series analysis on sensor data
 
 ## <span style="color: Green">News:</span>  
 
