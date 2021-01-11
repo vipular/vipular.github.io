@@ -6,7 +6,8 @@ slug: /teaching
 ## Courses
 
 * **2021 Spring** <span style="color: red">(NEW)</span>:
-    * EE698R - Advanced Topics in Machine Learning [[link]](http://home.iitk.ac.in/~vipular/stuff/2021_ML2.html)
+    * EE698R - Advanced Topics in Machine Learning [[link]](stuff/2021_ML2.md)
+    http://home.iitk.ac.in/~vipular/stuff/2021_ML2.html
 * **2021 Spring** <span style="color: red">(NEW)</span>:
     * EE627A - Speech Signal Processing [[link]](http://home.iitk.ac.in/~vipular/stuff/2021_asr.html)
 * **2020 Fall**:
