@@ -32,10 +32,10 @@ slug: /madhavlab
 * Shivam Pal (2020, NLP)
 * Shivangi Ranjan (2020, Music Information Retrieval), joined Intel
 * Aman Kumar Sharma (2020, Music Information Retrieval), joined Cisco
+* Jaivardhan Kapoor (2020, ML for Physics), joined PhD at Max Plank Tübingen
 
 ### <span style="color: Black">Ongoing</span>
 
-* Jaivardhan Kapoor - ML for Physics
 * Nishant Kumar - ML with imbalanced data
 * Swapnil Dey
 * Jagadeesh K. Babu
