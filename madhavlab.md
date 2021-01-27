@@ -20,10 +20,7 @@ slug: /madhavlab
 * Sumit Kumar - Semantic Question Answering
 * Rahul Kodag - Music Information Retrieval
 * Vikas Kumar - ML for Physics
-* Abhishek Jaiswal - Semantic Learning
 * Adhiraj Banerjee - Semantic Learning
-* Swati Singh - Cognitive Learning
-* M Jayasandhya - Cognitive Learning
 
 ## <span style="color: Green">Masters students:</span>
 
