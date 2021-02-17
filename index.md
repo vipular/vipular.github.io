@@ -12,7 +12,7 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 
 ## <span style="color: Green">Opportunities</span>
 - <span style="color: DarkRed">I am looking for students/post-docs with computational music or Physics background to join my group.</span>
- - <span style="color: DarkRed">For UG projects, please see [<ins>this</ins>](https://iitk-my.sharepoint.com/:w:/g/personal/vipular_iitk_ac_in/Eb4MuskFBA9HlN2erjHe40IBivflK4v7Dj1ZNRdYX8id6A?rtime=E22O2beh2Eg).</span>
+ - <span style="color: DarkRed">UG students with music knowledge and experience in signal processing and coding are welcome to apply for SURGE or UG projects.</span>
 
 ## <span style="color: green">Research</span>
 
