@@ -19,11 +19,12 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 <span style="color: blue">I am focusing mainly on the following areas:</span>                                                                                          
 - Machine learning for audio analysis
   - speech, music and acoustic events
-- Machine learning for physics                            
+- Machine learning for Physics                            
 - Time series analysis on sensor data
 
 ## <span style="color: Green">News:</span>  
 
+| 22 Jan 2021: <br>**Positions secured in [International BCI competition organized by IEEE Brain](http://brain.korea.ac.kr/bci2021/competition.php)**:<br>-	1st position in few shot learning track <br>-	1st position in microsleep detection <br>-	3rd position in EEG based ERP detection <br>-	4th position in upper limb movements decoding <br>-	7th position in imagined sleep classification |
 | 3 Dec 2020: <br>**Paper accepted in IEEE CICT 2020**: Shivangi Ranjan and Vipul Arora, "A Bioinformatic Method Of Semi-Global Alignment For Query-By-Humming", in IEEE Conference on Information and Communication Technology (CICT), 2020, pp. 1–5 |
 | 24 July 2020: <br>**Clinical BCI Challenge 2020**: Our team (named iBCI) secured overall 2nd position in [Clinical BCI Challenge at IEEE WCCI 2020](https://sites.google.com/view/bci-comp-wcci/) |
 | 9 July 2020: <br>**Grant approved by MPCB**: "Technical Assessment of Low-Cost Sensor based PM2.5 and PM10 Monitoring Network in Maharashtra" |
