@@ -7,12 +7,13 @@ profile_picture:
 ## <span style="color: Green">About me:</span>
 I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](http://www.iitk.ac.in/ee/) from the [<ins>Indian Institute of Technology (IIT) Kanpur</ins>](http://www.iitk.ac.in/), India. My Ph.D. thesis was titled "[<ins>Analysis of Pitched Polyphonic Music for Source Transcription</ins>](https://drive.google.com/file/d/0By8wZfM49Y2ScC1vc2lVX0I1c1U/view)", where I worked on analyzing music audio to identify and transcribe different instruments/voices playing simultaneously. During postdoc at Oxford University (UK), I developed [<ins>speech recognition</ins>](https://www.youtube.com/watch?v=Tgr3Y_U9BsQ) systems using linguistic principles, with applications in automatic language teacher and speech recognition for low-resource languages. At Amazon in Boston (USA), I worked on audio classification for developing Alexa [<ins>home security</ins>](https://www.theverge.com/2018/9/20/17883428/amazon-alexa-guard-alarm-ring-smart-home-security-price) system, with research focusing on classification with imbalanced data.
 
-<span style="color: blue"><b>Research interests:</b> machine learning, signal processing and optimization</span>
+<span style="color: blue"><b>Research interests:</b> machine learning, signal processing, machine learning for Physics, time series analysis</span>
 
 
 ## <span style="color: Green">Opportunities</span>
-- <span style="color: DarkRed">I am looking for students/post-docs with computational music or Physics background to join my group.</span>
- - <span style="color: DarkRed">UG students with music knowledge and experience in signal processing and coding are welcome to apply for SURGE or UG projects.</span>
+- <span style="color: DarkRed">Opening for a research associate in music processing [apply here](https://www.linkedin.com/jobs/view/2502992202/?refId=MVDnmLxaQHCvhJOc0%2FYc9A%3D%3D)</span>
+- I am looking for students/post-docs with computational music or Physics background to join my group.
+ - UG students with music knowledge and experience in signal processing and coding are welcome to apply for SURGE or UG projects.
 
 ## <span style="color: green">Research</span>
 
