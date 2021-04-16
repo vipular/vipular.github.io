@@ -11,7 +11,7 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 
 
 ## <span style="color: Green">Opportunities</span>
-- <span style="color: DarkRed">Opening for a research associate in music processing [apply here](https://www.linkedin.com/jobs/view/2502992202/?refId=MVDnmLxaQHCvhJOc0%2FYc9A%3D%3D)</span>
+- <span style="color: DarkRed">Opening for a research scientist/engineer in music processing [apply here](https://forms.office.com/r/KKj7294qtf)</span>
 - I am looking for students/post-docs with computational music or Physics background to join my group.
  - UG students with music knowledge and experience in signal processing and coding are welcome to apply for SURGE or UG projects.
 
