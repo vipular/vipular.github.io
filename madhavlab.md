@@ -6,8 +6,14 @@ slug: /madhavlab
 
 # <span style="color: Green">Research Projects</span>
 ## Music Information Retrieval
+- Melody Estimation
+- Audio Source Separation
+## Audio Analysis
+- Audio Event Detection
+- Speaker Diarization
 ## Machine Learning for Physics
-## 
+- Generative Adversarial Networks for XY models
+- Generative Models for lattice QCD
 
 # <span style="color: Green">Research Outcomes</span>
 ## [Narottam: Music LMS](https://vipular.github.io/narottam.github.io)
@@ -19,11 +25,6 @@ A smart percussion accompaniment for live music performances. Implemented for Ki
 # <span style="color: Green">Lab Members</span>
 ## <span style="color: Green">PhD students:</span>
 
-
-### <span style="color: Black">Completed</span>
-
-* Dr. Tharun Reddy (2020, Brain Computer Interface), Assistant Professor, IIT Dhanbad
-
 ### <span style="color: Black">Ongoing</span>
 
 * Kavya Ranjan Saxena - Music Information Retrieval
@@ -32,7 +33,20 @@ A smart percussion accompaniment for live music performances. Implemented for Ki
 * Vikas Kumar - ML for Physics
 * Adhiraj Banerjee - Semantic Learning
 
+### <span style="color: Black">Completed</span>
+
+* Dr. Tharun Reddy (2020, Brain Computer Interface), Assistant Professor, IIT Dhanbad
+
 ## <span style="color: Green">Masters students:</span>
+
+### <span style="color: Black">Ongoing</span>
+
+* Swapnil Dey - Semantic Learning
+* Jagadeesh K. Babu - Music information retrieval
+* Kalpit Yadav - Sensor calibration
+* Nishant Kumar - ML with imbalanced data
+* Gaurav Tank - Music information retrieval
+* Abhishek Saini - ML for Physics
 
 ### <span style="color: Black">Completed</span>
 
@@ -40,11 +54,3 @@ A smart percussion accompaniment for live music performances. Implemented for Ki
 * Shivangi Ranjan (2020, Music Information Retrieval), joined Intel
 * Aman Kumar Sharma (2020, Music Information Retrieval), joined Cisco
 * Jaivardhan Kapoor (2020, ML for Physics), joined PhD at Max Plank Tübingen
-
-### <span style="color: Black">Ongoing</span>
-
-* Nishant Kumar - ML with imbalanced data
-* Swapnil Dey
-* Jagadeesh K. Babu
-* Kalpit Yadav
-
