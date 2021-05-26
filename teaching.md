@@ -7,6 +7,8 @@ slug: /teaching
 
 * **2021 Fall** <span style="color: red">(NEW)</span>:
     * EE603A - Machine Learning for Signal Processing [[link]](stuff/2021_MLSP.md)
+* **2020 Summers**: <span style="color: red">(NEW)</span>:
+    * EE301A - Digital Signal Processing [[link]](/stuff/2021_EE301A.md)
 * **2021 Spring**:
     * EE698R - Advanced Topics in Machine Learning [[link]](stuff/2021_ML2.md)
 * **2021 Spring**:
