@@ -8,16 +8,18 @@ baseurl:  # the subpath of the site
 url: "https://vipular.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 
+url: "https://madhavlab.github.io"
 
 header:
   pages:
     - name: Home
       slug: /
-    - name: MadhavLab
-      link: https://madhavlab.github.io/
     - name: Publications
     - name: Teaching
     - name: Resources
+    - name: Madhavlab
+  
+
 
 
 
