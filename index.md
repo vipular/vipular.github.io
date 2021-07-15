@@ -25,6 +25,8 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 
 ## <span style="color: Green">News:</span>  
 
+| 25 May 2021: **[Google AI4SG Award]()**: Research proposal with IITK consult group and CARE India NGO, titled "AI-based Smart Assistant for Child Deliveries in Low Resource Areas", selected to be a part of Google’s AI for Social Good program for 2021-22. |
+| 6 Mar 2021: <br>**Paper accepted in [Scipost journal](https://www.scipost.org/)**: Japneet Singh, Mathias S. Scheurer, and Vipul Arora. "Conditional generative models for sampling and phase transition indication in spin systems." Scipost, 2021. |
 | 22 Jan 2021: <br>**Positions secured in [International BCI competition organized by IEEE Brain](http://brain.korea.ac.kr/bci2021/competition.php)**:<br>-	1st position in few shot learning track <br>-	1st position in microsleep detection <br>-	3rd position in EEG based ERP detection <br>-	4th position in upper limb movements decoding <br>-	7th position in imagined sleep classification <br> Team members: Dr. Tharun Reddy, Madhurdeep Jain, Jinang Shah, Palashdeep Singh,  Vartika Gupta, Kushangi Mittal, Archit Bansal, Chittoor Murari|
 | 3 Dec 2020: <br>**Paper accepted in IEEE CICT 2020**: Shivangi Ranjan and Vipul Arora, "A Bioinformatic Method Of Semi-Global Alignment For Query-By-Humming", in IEEE Conference on Information and Communication Technology (CICT), 2020, pp. 1–5 |
 | 24 July 2020: <br>**Clinical BCI Challenge 2020**: Our team (named iBCI) secured overall 2nd position in [Clinical BCI Challenge at IEEE WCCI 2020](https://sites.google.com/view/bci-comp-wcci/) |
