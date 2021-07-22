@@ -27,6 +27,7 @@ slug: /publications
 * Vipul Arora and Henning Reetz, "Automatic Speech Recognition: what phonology can offer" in Lexical Processing of Speech, deGruyter/Mouton, 2017
 
 ## <span style="color: orangered">Conference Publications</span>
+* Aman Sharma, Kavya Saxena and Vipul Arora, "Frequency-Anchored Deep Networks for Polyphonic Melody Extraction", in Proceedings of National Conference on Communications (NCC), 2021.
 * Shivangi Ranjan and Vipul Arora, "A Bioinformatic Method Of Semi-Global Alignment For Query-By-Humming", in IEEE Conference on Information and Communication Technology (CICT), 2020, pp. 1–5
 * Satyam Kumar, Tharun Kumar Reddy, Vipul Arora, and Laxmidhar Behera, "Formulating Divergence Framework For Multiclass Motor Imagery EEG Brain Computer Interface", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020.
 * Vipul Arora, Ming Sun and Chao Wang, "Deep Embeddings for Rare Audio Event Detection With Imbalanced Data", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019. [[pdf]](https://drive.google.com/file/d/1Z7wCbKnz1YqvVVmQF40FeXUGIrpkgY3t/view) [[blog]](https://www.amazon.science/blog/to-correct-imbalances-in-training-data-dont-oversample-cluster)

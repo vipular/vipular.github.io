@@ -11,9 +11,8 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 
 
 ## <span style="color: Green">Opportunities</span>
-- <span style="color: DarkRed">Opening for a research scientist/engineer in music processing [apply here](https://forms.office.com/r/KKj7294qtf)</span>
+
 - I am looking for students/post-docs with computational music or Physics background to join my group.
- - UG students with music knowledge and experience in signal processing and coding are welcome to apply for SURGE or UG projects.
 
 ## <span style="color: green">Research</span>
 
@@ -25,6 +24,7 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 
 ## <span style="color: Green">News:</span>  
 
+| 19 July 2021: **Two grants from Prasar Bharati** Received two grants, titled, "Automatic Speech Recognition for Speech Subtitling (Making Broadcast Content in various Indian Languages Accessible)" and "Archival Content Retrieval through Audio and Text Query" from Prasar Bharati |
 | 17 June 2021: **[Article in Hindustan Times](https://www.hindustantimes.com/opinion/measuring-indoor-air-pollution-why-low-cost-technology-is-critical-101623911895014.html)** "Measuring indoor air pollution: Why low-cost technology is critical", Opinion Edition, S.N. Tripathi and Vipul Arora. |
 | 25 May 2021: **[Google AI4SG Award](https://sites.google.com/view/aiforsocialgoodworkshop/2021-projects?authuser=0)**: Research proposal with IITK consult group and CARE India NGO, titled "AI-based Smart Assistant for Child Deliveries in Low Resource Areas", selected to be a part of Google’s AI for Social Good program for 2021-22. |
 | 11 May 2021: **[Paper accepted in NCC 2021](https://www.iitk.ac.in/ncc2021/)** Aman Sharma, Kavya Saxena and Vipul Arora, "Frequency-Anchored Deep Networks for Polyphonic Melody Extraction", in Proceedings of National Conference on Communications, 2021. |
@@ -57,5 +57,6 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 <br>**Office:** 305D, ACES building 
 
 
-
-
+<!--
+- <span style="color: DarkRed">Opening for a research scientist/engineer in music processing [apply here](https://forms.office.com/r/KKj7294qtf)</span>
+-->
