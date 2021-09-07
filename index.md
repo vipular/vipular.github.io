@@ -12,6 +12,7 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 
 ## <span style="color: Green">Opportunities</span>
 
+- Looking for an Android Developer to join our group for building audio applications.
 - I am looking for students/post-docs with computational music or Physics background to join my group.
 
 ## <span style="color: green">Research</span>
@@ -24,6 +25,8 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 
 ## <span style="color: Green">News:</span>  
 
+| 27 Aug 2021: <br>**[First position in NEC 2021 Grand Challenge](https://www.neuroergonomicsconference.um.ifi.lmu.de/pbci/)**: Passive BCI Hackathon to decode mental workload from EEG signals. Team: Swapnil Singh, Vartika Gupta, Tharun Kumar Reddy, Vipul Arora |
+| 11 Aug 2021: <br>**[Second position in IEEE ICAS 2021 Challenge](https://2021.ieee-icas.org/challenge/)**: Self-awareness in heterogeneous multi-robot systems. Team: Nitish Vikas Deshpande, Afzal Rao, Adhiraj Banerjee, Vipul Arora |
 | 19 July 2021: <br>**Two grants from Prasar Bharati:** Received two grants, titled, "Automatic Speech Recognition for Speech Subtitling (Making Broadcast Content in various Indian Languages Accessible)" and "Archival Content Retrieval through Audio and Text Query" from Prasar Bharati |
 | 17 June 2021: <br>**[Article in Hindustan Times](https://www.hindustantimes.com/opinion/measuring-indoor-air-pollution-why-low-cost-technology-is-critical-101623911895014.html)** "Measuring indoor air pollution: Why low-cost technology is critical", Opinion Edition, S.N. Tripathi and Vipul Arora. |
 | 25 May 2021: <br>**[Google AI4SG Award](https://sites.google.com/view/aiforsocialgoodworkshop/2021-projects?authuser=0)**: Research proposal with IITK consult group and CARE India NGO, titled "AI-based Smart Assistant for Child Deliveries in Low Resource Areas", selected to be a part of Google’s AI for Social Good program for 2021-22. |
