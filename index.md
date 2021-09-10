@@ -12,7 +12,9 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 
 ## <span style="color: Green">Opportunities</span>
 
-- Looking for an Android Developer to join our group for building audio applications.
+- Job Openings:
+  - an Android Developer to join our group for building audio applications: https://forms.office.com/r/i2e5ZicZf1
+  - a Music Teacher: https://forms.office.com/r/gUvNhC3XcQ 
 - I am looking for students/post-docs with computational music or Physics background to join my group.
 
 ## <span style="color: green">Research</span>
