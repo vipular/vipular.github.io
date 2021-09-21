@@ -14,7 +14,9 @@ slug: /publications
 
 ## <span style="color: orangered">Journal Publications</span>
 
-* Japneet Singh, Vipul Arora, Vinay Gupta, Mathias S Scheurer, "Generative models for sampling and phase transition indication in spin systems", https://arxiv.org/abs/2006.11868, 2020
+* Sonu Kumar Jha, Mohit Kumar, Vipul Arora, Sachchida Nand Tripathi, Vidyanand Motiram Motghare, and A. A. Shingare, "Domain adaptation based deep calibration of low-cost PM2.5 sensors", IEEE Sensors Journal, (under review).
+* Tharun Kumar Reddy, Vipul Arora, Rupam Biswas, Vinay Gupta, and Laxmidhar Behera,"EEG Based Drowsiness Detection With Fuzzy Independent Phase Locking Value Representations Using Lagrangian Based Deep Neural Networks", IEEE Transactions on Systems, Man and Cybernetics: Systems, 2021.
+* Japneet Singh, Mathias S Scheurer, Vipul Arora, "Generative models for sampling and phase transition indication in spin systems", Scipost Physics, 2021.
 * Tharun Kumar Reddy, Vipul Arora, Laxmidhar Behera, Yukai Wang, Chin-Teng Lin, "Multi-class Fuzzy Time-delay Common Spatio-Spectral Patterns with Fuzzy Information Theoretic optimization for EEG based Regression Problems in Brain Computer Interface (BCI)", IEEE Trans. Fuzzy Systems, vol. 27, issue 10, pp. 1943-1951, October 2019.
 * Tharun Kumar Reddy, Vipul Arora, Satyam Kumar, Laxmidhar Behera, Yukai Wang, Chin-Teng Lin, "Electroencephalogram based reaction time prediction with differential phase synchrony representations using co-operative multi-task deep neural networks", IEEE Trans. Emerging Topics in Computational Intelligence, vol.3, issue 5, pp. 369-379, September 2019.
 * Tharun Kumar Reddy, Vipul Arora and Laxmidhar Behera, "HJB-Equation-Based Optimal Learning Scheme for Neural Networks With Applications in Brain Computer Interface," IEEE Trans. Emerging Topics in Computational Intelligence, issue 99, pp. 1-12, August 2018.
@@ -49,6 +51,7 @@ slug: /publications
 
 
 ## <span style="color:orangered">Other Publications</span>
-* Vipul Arora, Laxmidhar Behera and Ajay Pratap Yadav, "Optimal Convergence Rate in Feed Forward Neural Networks using HJB Equation", arXiv preprint, arXiv:1504.07278 (2015).
+* Shivam Pal, Pawan Goyal and Vipul Arora, "Finding Prerequisite Relations between Concepts using Textbook", arXiv:2011.10337, 2020.
+* Vipul Arora, Laxmidhar Behera and Ajay Pratap Yadav, "Optimal Convergence Rate in Feed Forward Neural Networks using HJB Equation", arXiv preprint, arXiv:1504.07278, 2015.
 * Vipul Arora, Aditi Lahiri and Henning Reetz, "Phonological Features for Digit Recognition," in American Society of Acoustics (ASA) meeting, Jacksonville, November 2015.
 * Vipul Arora and Laxmidhar Behera, "Online melody extraction: MIREX 2012," in MIREX, Porto, Portugal, October 2012. [[extended abstract]](https://drive.google.com/file/d/0By8wZfM49Y2SMFJCVVBmZlFLUzg/view)[[poster]](https://drive.google.com/file/d/0By8wZfM49Y2SRWVYY3lZNV9uUEk/view)
