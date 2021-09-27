@@ -5,6 +5,7 @@ slug: /madhavlab
 ---
 
 # <span style="color: Green">Research Areas</span>
+
 ## Music Information Retrieval
 - Melody Estimation
 - Audio Source Separation
@@ -23,6 +24,7 @@ An AI platform to connect music teachers and students. It has tools needed by mu
 A smart percussion accompaniment for live music performances. Implemented for Kirtan music - seamless transition of tempo and beat-cycle.
 
 # <span style="color: Green">Lab Members</span>
+
 ## <span style="color: Green">PhD students:</span>
 
 ### <span style="color: Black">Ongoing</span>
