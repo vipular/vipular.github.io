@@ -7,12 +7,14 @@ slug: /publications
 
 ## [<ins>Google Scholar page</ins>](https://scholar.google.co.uk/citations?user=SC9YYPAAAAAJ&amp;hl=en) 
 
-## <span style="color:orangered">Patents</span>
+## <span style="color:green">Patents</span>
+* Vipul Arora, Aditi Lahiri and Henning Reetz, "System and Method for Automatic Speech Analysis", filed in USA, 2021.
+* Vipul Arora, "System and method for Music Training", filed in India, 2021
 * Vipul Arora, Aditi Lahiri and Henning Reetz, "System and Method for Automatic Speech Analysis", WO 2018/193241, filed in Great Britain, April 2017.
 * Vipul Arora, Aditi Lahiri and Henning Reetz, "System and Method for Automatic Speech Analysis", EP3613046A1, European patent office, Feb 2020 (pending)
 
 
-## <span style="color: orangered">Journal Publications</span>
+## <span style="color:green">Journal Publications</span>
 
 * Sonu Kumar Jha, Mohit Kumar, Vipul Arora, Sachchida Nand Tripathi, Vidyanand Motiram Motghare, and A. A. Shingare, "Domain adaptation based deep calibration of low-cost PM2.5 sensors", IEEE Sensors Journal, (under review).
 * Tharun Kumar Reddy, Vipul Arora, Rupam Biswas, Vinay Gupta, and Laxmidhar Behera,"EEG Based Drowsiness Detection With Fuzzy Independent Phase Locking Value Representations Using Lagrangian Based Deep Neural Networks", IEEE Transactions on Systems, Man and Cybernetics: Systems, 2021.
@@ -50,7 +52,7 @@ slug: /publications
 * Pawan Goyal, Vipul Arora, Laxmidhar Behera and Martin McGinnity, "Tagging of Text with Emotion for Emotional Speech Synthesis," in Proc. Information Technology and Telecommunications Conf., GMIT, Galway, pp 111-118, 2008.
 
 
-## <span style="color:orangered">Other Publications</span>
+## <span style="color:green">Other Publications</span>
 * Shivam Pal, Pawan Goyal and Vipul Arora, "Finding Prerequisite Relations between Concepts using Textbook", arXiv:2011.10337, 2020.
 * Vipul Arora, Laxmidhar Behera and Ajay Pratap Yadav, "Optimal Convergence Rate in Feed Forward Neural Networks using HJB Equation", arXiv preprint, arXiv:1504.07278, 2015.
 * Vipul Arora, Aditi Lahiri and Henning Reetz, "Phonological Features for Digit Recognition," in American Society of Acoustics (ASA) meeting, Jacksonville, November 2015.
