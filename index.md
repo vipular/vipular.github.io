@@ -13,9 +13,11 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 ## <span style="color: Green">Opportunities</span>
 
 - Job Openings:
-  - an Android Developer to join our group for building audio applications: https://forms.office.com/r/i2e5ZicZf1
-  - a Music Teacher: https://forms.office.com/r/gUvNhC3XcQ 
-- I am looking for students/post-docs with computational music or Physics background to join my group.
+  - Four senior positions available for projects on speech recognition and acoustic scene analysis:
+    - Project Executive Officer: https://www.iitk.ac.in/dord/project/ee-peo-21-10-21.html
+    - Project Executive Officer: https://www.iitk.ac.in/dord/project/ee-peo-I-21-10-21.html 
+    - Postdoc: https://www.iitk.ac.in/dord/project/ee-pdf-21-10-21.html
+    - Postdoc: https://www.iitk.ac.in/dord/project/ee-pdf-I-21-10-21.html
 
 ## <span style="color: green">Research</span>
 
