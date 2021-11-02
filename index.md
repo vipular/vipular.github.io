@@ -7,25 +7,29 @@ profile_picture:
 ## <span style="color: Green">About me:</span>
 I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](http://www.iitk.ac.in/ee/) from the [<ins>Indian Institute of Technology (IIT) Kanpur</ins>](http://www.iitk.ac.in/), India. My Ph.D. thesis was titled "[<ins>Analysis of Pitched Polyphonic Music for Source Transcription</ins>](https://drive.google.com/file/d/0By8wZfM49Y2ScC1vc2lVX0I1c1U/view)", where I worked on analyzing music audio to identify and transcribe different instruments/voices playing simultaneously. During postdoc at Oxford University (UK), I developed [<ins>speech recognition</ins>](https://www.youtube.com/watch?v=Tgr3Y_U9BsQ) systems using linguistic principles, with applications in automatic language teacher and speech recognition for low-resource languages. At Amazon in Boston (USA), I worked on audio classification for developing Alexa [<ins>home security</ins>](https://www.theverge.com/2018/9/20/17883428/amazon-alexa-guard-alarm-ring-smart-home-security-price) system, with research focusing on classification with imbalanced data.
 
-<span style="color: blue"><b>Research interests:</b> machine learning, signal processing, machine learning for Physics, time series analysis</span>
+<span style="color: blue"><b>Research interests:</b> 
+- Machine learning for audio signal processing
+  - speech, music and acoustic events
+- Machine learning for Physics                            
+- Time series analysis on sensor data
+</span>
 
 
 ## <span style="color: Green">Opportunities</span>
 
 - Job Openings:
   - Four senior positions available for projects on speech recognition and acoustic scene analysis:
-    - Project Executive Officer: https://www.iitk.ac.in/dord/project/ee-peo-21-10-21.html
+    - [Project Executive Officer](https://www.iitk.ac.in/dord/project/ee-peo-21-10-21.html)
     - Project Executive Officer: https://www.iitk.ac.in/dord/project/ee-peo-I-21-10-21.html 
     - Postdoc: https://www.iitk.ac.in/dord/project/ee-pdf-21-10-21.html
     - Postdoc: https://www.iitk.ac.in/dord/project/ee-pdf-I-21-10-21.html
 
-## <span style="color: green">Research</span>
-
-<span style="color: blue">I am focusing mainly on the following areas:</span>                                                                                          
-- Machine learning for audio analysis
-  - speech, music and acoustic events
-- Machine learning for Physics                            
-- Time series analysis on sensor data
+## <span style="color: green">Projects</span>
+### Ongoing
+- [Automatic Speech Recognition](https://vipular.github.io/stuff/2021_PrasarBharatiProjects.html) by Prasar Bharati
+- [Audio Archival Content Retrieval](https://vipular.github.io/stuff/2021_PrasarBharatiProjects.html) by Prasar Bharati
+- [Automatic Music Tutor](https://vipular.github.io/narottam.github.io) by IMPRINT
+- ML based calibration of air quality sensors by Maharashtra Pollution Control Board
 
 ## <span style="color: Green">News:</span>  
 
