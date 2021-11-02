@@ -20,9 +20,9 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 - Job Openings:
   - Four senior positions available for projects on speech recognition and acoustic scene analysis:
     - [Project Executive Officer](https://www.iitk.ac.in/dord/project/ee-peo-21-10-21.html)
-    - Project Executive Officer: https://www.iitk.ac.in/dord/project/ee-peo-I-21-10-21.html 
-    - Postdoc: https://www.iitk.ac.in/dord/project/ee-pdf-21-10-21.html
-    - Postdoc: https://www.iitk.ac.in/dord/project/ee-pdf-I-21-10-21.html
+    - [Project Executive Officer](https://www.iitk.ac.in/dord/project/ee-peo-I-21-10-21.html)
+    - [Postdoc](https://www.iitk.ac.in/dord/project/ee-pdf-21-10-21.html)
+    - [Postdoc](https://www.iitk.ac.in/dord/project/ee-pdf-I-21-10-21.html)
 
 ## <span style="color: green">Projects</span>
 ### Ongoing
