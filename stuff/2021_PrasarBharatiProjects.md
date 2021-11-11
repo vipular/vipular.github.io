@@ -23,7 +23,7 @@ MathJax.Hub.Queue(function() {
 
 # AUTOMATIC SPEECH RECOGNITION FOR SPEECH SUBTITLING
 # <span style= 'color:red'>For Prasar Bharati</span>
-<img src="{{ "/assets/img/ASR_image" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/ASR image.png" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 
 ## Table of Contents
