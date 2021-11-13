@@ -34,6 +34,11 @@ MathJax.Hub.Queue(function() {
     * [Modelling](#modelling)
     * [Evaluation](#evaluation)
     * [ASR with background sounds](#asr-with-background-sounds)
+4. [Execution Model](#execution-model)
+    * [Phase 1](#phase-1)
+    * [Phase 2](#phase-2)
+    * [Phase 3](#phase-3)
+    * [Phase 4](#phase-4)
 
 ## **INTRODUCTION**
 Prasar Bharati is India's largest broadcasting agency, broadcasting audio and video content via All India Radio and Doordarshan. It has a humungous wealth of audio and video content. In this age of digitization and AI, machine learning technologies have opened up vast opportunities. A proper content analysis can help in efficient search, recommendation, accessibility, translation and so on. In this project, we propose to develop and deploy automatic speech recognition (ASR) technologies for Prasar Bharati's multimedia content.
@@ -53,5 +58,14 @@ Specifically, it will be a conversational large vocabulary continuous speech rec
 3.	***Evaluation*** 
 
 A fourth stage may be added, if required, i.e., deployment for the end use case.
+
+## **METHODOLOGY**
+
+**<span style= 'color:red'>Data Preparation</span>**
+
+ASR uses parallel speech audio and text of conversation. The ASR models are trained using these parallel data. Generally, the data requirement for full-fledged ASR systems is huge - of the order of 1000's of hours of speech. Gradually, we will take up data from Prasar Bharati's media content, and annotate and curate it for preparing datasets that we can use for our project.
+
+**<span style= 'color:red'>Modelling</span>**
+
 
 
