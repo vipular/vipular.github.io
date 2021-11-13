@@ -29,7 +29,7 @@ MathJax.Hub.Queue(function() {
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Scope of work](#scope-of-work)
-3. [Methodology](#methodolgy)
+3. [Methodology](#methodology)
     * [Data Preparation](#data-preparation)
     * [Modelling](#modelling)
     * [Evaluation](#evaluation)
