@@ -20,52 +20,13 @@ MathJax.Hub.Queue(function() {
 
 **Estimated Enrollment:** 40
 -->
-
+[ASR](#AUTOMATIC SPEECH RECOGNITION FOR SPEECH SUBTITLING)
 # AUTOMATIC SPEECH RECOGNITION FOR SPEECH SUBTITLING
-# <span style= 'color:red'>For Prasar Bharati</span>
 <img src="{{ "/assets/img/asr_image.png" | absolute_url }}" class="post-pic"/>
 <br />
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Scope of work](#scope-of-work)
-3. [Methodology](#methodology)
-    * [Data Preparation](#data-preparation)
-    * [Modelling](#modelling)
-    * [Evaluation](#evaluation)
-    * [ASR with background sounds](#asr-with-background-sounds)
-4. [Execution Model](#execution-model)
-    * [Phase 1](#phase-1)
-    * [Phase 2](#phase-2)
-    * [Phase 3](#phase-3)
-    * [Phase 4](#phase-4)
-
-## **INTRODUCTION**
 Prasar Bharati is India's largest broadcasting agency, broadcasting audio and video content via All India Radio and Doordarshan. It has a humungous wealth of audio and video content. In this age of digitization and AI, machine learning technologies have opened up vast opportunities. A proper content analysis can help in efficient search, recommendation, accessibility, translation and so on. In this project, we propose to develop and deploy automatic speech recognition (ASR) technologies for Prasar Bharati's multimedia content.
 
-The ASR outputs can serve greatly in content recommendation. Recommendation services make use of text to find programs related to the viewer's choices or watch history, and recommend those programs that viewers shall like.
-
-The text so obtained could be translated with Automatic Machine Translation systems. India is a country of different languages and Prasar Bharati broadcasts to different states with different languages. ASR can enable translated subtitles for enhanced viewability.
-
-Another application of these technologies would be in media monitoring by continuously listening to news or social media on internet. Whenever there is any conversation about a particular topic or brand, it can be retrieved automatically and brought into notice of concerned persons.
-
-## **SCOPE OF WORK**
-We propose to implement an automatic speech recognition (ASR) system for certain languages. It will convert speech audio into a textual form. 
-Specifically, it will be a conversational large vocabulary continuous speech recognition (LVCSR) system in its final form. The project will have 3 main components, namely, 
-
-1.	***Data preparation***
-2.	***Training of acoustic and language models***
-3.	***Evaluation*** 
-
-A fourth stage may be added, if required, i.e., deployment for the end use case.
-
-## **METHODOLOGY**
-
-**<span style= 'color:red'>Data Preparation</span>**
-
-ASR uses parallel speech audio and text of conversation. The ASR models are trained using these parallel data. Generally, the data requirement for full-fledged ASR systems is huge - of the order of 1000's of hours of speech. Gradually, we will take up data from Prasar Bharati's media content, and annotate and curate it for preparing datasets that we can use for our project.
-
-**<span style= 'color:red'>Modelling</span>**
-
+This project involves implementing an automatic speech recognition (ASR) system for certain languages. It will convert speech audio into a textual form. Specifically, it will be a conversational large vocabulary continuous speech recognition (LVCSR) system in its final form. 
 
 
