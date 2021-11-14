@@ -21,6 +21,7 @@ MathJax.Hub.Queue(function() {
 **Estimated Enrollment:** 40
 -->
 [ASR](#AUTOMATIC SPEECH RECOGNITION FOR SPEECH SUBTITLING)
+[Archival Content Retrieval](#ARCHIVAL CONTENT RETRIEVAL THROUGH AUDIO AND TEXT QUERY)
 # AUTOMATIC SPEECH RECOGNITION FOR SPEECH SUBTITLING
 <img src="{{ "/assets/img/asr_image.png" | absolute_url }}" class="post-pic"/>
 <br />
@@ -29,4 +30,10 @@ Prasar Bharati is India's largest broadcasting agency, broadcasting audio and vi
 
 This project involves implementing an automatic speech recognition (ASR) system for certain languages. It will convert speech audio into a textual form. Specifically, it will be a conversational large vocabulary continuous speech recognition (LVCSR) system in its final form. 
 
+# ARCHIVAL CONTENT RETRIEVAL THROUGH AUDIO AND TEXT QUERY
+<img src="{{ "/assets/img/aed_image.png" | absolute_url }}" class="post-pic"/>
+<br />
 
+In this age of digitization and AI, machine learning technologies have opened up vast opportunities. A proper content analysis can help in efficient search, recommendation, accessibility, translation and so on. In this project, we propose to develop and deploy audio-based content retrieval technologies for Prasar Bharati's multimedia content. 
+
+The overarching goal of this project is audio-based content retrieval. We will develop two kinds of retrieval methods, viz., extracting text labels from audio (audio tagging) and direct audio matching (audio fingerprinting). 
