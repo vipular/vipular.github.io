@@ -21,6 +21,7 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 
 ## <span style="color: Green">Opportunities:</span>
 
+- Available [UG projects](stuff/2022_UGPs.md) 
 - Job Openings:
   - Four senior positions available for projects on speech recognition and acoustic scene analysis:
     - [Project Executive Officer](https://www.iitk.ac.in/dord/project/ee-peo-21-10-21.html)
