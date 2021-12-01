@@ -37,7 +37,6 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 - ML based calibration of air quality sensors by Maharashtra Pollution Control Board
 
 ## <span style="color: Green">News:</span>  
-
 | 27 Aug 2021: <br>**[First position in NEC 2021 Grand Challenge](https://www.neuroergonomicsconference.um.ifi.lmu.de/pbci/)**: Passive BCI Hackathon to decode mental workload from EEG signals. Team: Swapnil Singh, Vartika Gupta, Tharun Kumar Reddy, Vipul Arora |
 | 11 Aug 2021: <br>**[Second position in IEEE ICAS 2021 Challenge](https://2021.ieee-icas.org/challenge/)**: Self-awareness in heterogeneous multi-robot systems. Team: Nitish Vikas Deshpande, Afzal Rao, Adhiraj Banerjee, Vipul Arora |
 | 19 July 2021: <br>**Two grants from Prasar Bharati:** Received two grants, titled, "Automatic Speech Recognition for Speech Subtitling (Making Broadcast Content in various Indian Languages Accessible)" and "Archival Content Retrieval through Audio and Text Query" from Prasar Bharati |

@@ -15,8 +15,7 @@ slug: /publications
 
 
 ## <span style="color:green">Journal Publications</span>
-
-* Sonu Kumar Jha, Mohit Kumar, Vipul Arora, Sachchida Nand Tripathi, Vidyanand Motiram Motghare, and A. A. Shingare, "Domain adaptation based deep calibration of low-cost PM2.5 sensors", IEEE Sensors Journal, (under review).
+* Sonu Kumar Jha, Mohit Kumar, Vipul Arora, Sachchida Nand Tripathi, Vidyanand Motiram Motghare, and A. A. Shingare, "Domain adaptation based deep calibration of low-cost PM2.5 sensors", IEEE Sensors Journal, 2021.
 * Tharun Kumar Reddy, Vipul Arora, Rupam Biswas, Vinay Gupta, and Laxmidhar Behera,"EEG Based Drowsiness Detection With Fuzzy Independent Phase Locking Value Representations Using Lagrangian Based Deep Neural Networks", IEEE Transactions on Systems, Man and Cybernetics: Systems, 2021.
 * Japneet Singh, Mathias S Scheurer, Vipul Arora, "Generative models for sampling and phase transition indication in spin systems", Scipost Physics, 2021.
 * Tharun Kumar Reddy, Vipul Arora, Laxmidhar Behera, Yukai Wang, Chin-Teng Lin, "Multi-class Fuzzy Time-delay Common Spatio-Spectral Patterns with Fuzzy Information Theoretic optimization for EEG based Regression Problems in Brain Computer Interface (BCI)", IEEE Trans. Fuzzy Systems, vol. 27, issue 10, pp. 1943-1951, October 2019.
