@@ -6,6 +6,8 @@ slug: /teaching
 ## Courses
 
 * **2022 Spring** <span style="color: red">(NEW)</span>:
+    * EE798B - Data Structures and Algorithms for Electrical Engineers [[link]](stuff/2022_DSA.md)
+* **2022 Spring** <span style="color: red">(NEW)</span>:
     * EE698R - Advanced Topics in Machine Learning [[link]](stuff/2022_ML2.md)
 * **2021 Fall**:
     * EE603A - Machine Learning for Signal Processing [[link]](stuff/2021_MLSP.md)
