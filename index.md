@@ -9,6 +9,7 @@ profile_picture:
 <br>Assistant Professor
 <br>Department of Electrical Engineering
 <br>IIT Kanpur
+<br>Email: vipul ar (AT) iitk (.) ac (.) in
 <br>**Postal Address:** 305-D, ACES building, IIT Kanpur - 208016 
 <br>**Office location:** Sustainable Energy Engineering Building, Near Media Labs
 
@@ -24,11 +25,7 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 
 - Available [UG projects](stuff/2022_UGPs.md) 
 - Job Openings:
-  - Four senior positions available for projects on speech recognition and acoustic scene analysis:
-    - [Project Executive Officer](https://www.iitk.ac.in/dord/project/ee-peo-21-10-21.html)
-    - [Project Executive Officer](https://www.iitk.ac.in/dord/project/ee-peo-I-21-10-21.html)
-    - [Postdoc](https://www.iitk.ac.in/dord/project/ee-pdf-21-10-21.html)
-    - [Postdoc](https://www.iitk.ac.in/dord/project/ee-pdf-I-21-10-21.html)
+  - We are looking for postdocs and senior researchers for machine learning and audio processing. If interested, send me an email.
 
 ## <span style="color: green">Projects:</span>
 ### Ongoing
@@ -38,6 +35,9 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 - ML based calibration of air quality sensors by Maharashtra Pollution Control Board
 
 ## <span style="color: Green">News:</span>  
+
+| |
+| -- |
 | 27 Aug 2021: <br>**[First position in NEC 2021 Grand Challenge](https://www.neuroergonomicsconference.um.ifi.lmu.de/pbci/)**: Passive BCI Hackathon to decode mental workload from EEG signals. Team: Swapnil Singh, Vartika Gupta, Tharun Kumar Reddy, Vipul Arora |
 | 11 Aug 2021: <br>**[Second position in IEEE ICAS 2021 Challenge](https://2021.ieee-icas.org/challenge/)**: Self-awareness in heterogeneous multi-robot systems. Team: Nitish Vikas Deshpande, Afzal Rao, Adhiraj Banerjee, Vipul Arora |
 | 19 July 2021: <br>**Two grants from Prasar Bharati:** Received two grants, titled, "Automatic Speech Recognition for Speech Subtitling (Making Broadcast Content in various Indian Languages Accessible)" and "Archival Content Retrieval through Audio and Text Query" from Prasar Bharati |
