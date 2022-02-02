@@ -1,4 +1,4 @@
-# SENSOR CALIBRATION 
+# Machine Learning Based Calibration of Air Quality Sensors
 <img src="{{ "/assets/img/2021_sensors_graph_abs.png" | absolute_url }}" class="post-pic"/>
 <br />
 
@@ -6,7 +6,9 @@ Measuring Air Quality in urban areas is necessary for public health. CAAQMS setu
 
 One of the major challenge here is obtaining the training data by deploying a LCS co-located with CAAQMS. There are variations in the performance of LCS devices due to their own characteristics. We designed transfer learning based adaptation of calibration models to quickly calibrate the LCS devices.
 
-The proposed models help in reducing the collocation time while maintaining a high calibration performance.
+The proposed models help in reducing the collocation time of PM2.5 sensors while maintaining a high calibration performance.
+
+This project has been funded by Maharashtra Pollution Control Board and Bloomberg Philanthropies.
 
 ## Publications
 - Sonu Kumar Jha, Mohit Kumar, Vipul Arora, Sachchida Nand Tripathi, Vidyanand Motiram Motghare, and A. A. Shingare, “Domain adaptation based deep calibration of low-cost PM2.5 sensors”, IEEE Sensors Journal, 2021.
