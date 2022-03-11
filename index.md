@@ -24,6 +24,7 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 ## <span style="color: Green">Opportunities:</span>
 
 - Available [UG projects](stuff/2022_UGPs.md) 
+- [Earn by Annotating](stuff/2022_earnAnnotate.md) (only for IITK students)
 - Job Openings:
   - We are looking for postdocs and senior researchers for machine learning and audio processing. If interested, send me an email.
 
