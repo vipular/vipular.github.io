@@ -34,6 +34,7 @@ A smart percussion accompaniment for live music performances. Implemented for Ki
 * Rahul Kodag - Music Information Retrieval
 * Vikas Kumar - ML for Physics
 * Adhiraj Banerjee - Semantic Learning
+* Parampreet Singh - 
 
 ### <span style="color: Black">Completed</span>
 
