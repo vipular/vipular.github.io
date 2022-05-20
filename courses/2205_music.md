@@ -67,4 +67,5 @@ vocalist
 
 
 <span style="color: Black">**Venue:**</span>  Lecture Hall Complex, IIT Kanpur
+<span style="color: Black">**Contact:**</span>  Shiv Narayan Pandey, shivnp@iitk.ac.in 
 
