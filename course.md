@@ -39,7 +39,7 @@ vocalist
 
 ## <span style="color: Black">**Our Music Teacher**</span>
 
-<img align="right" width="100" height="110" src="assets/img/kajal.jpg">
+<img align="right" width="100" height="110" src="assets/img/kajal.png">
 
 **Mrs. Kajal heer**
 <br>M.Phil.,NET
@@ -47,7 +47,7 @@ vocalist
 
 <br/>
 
-<img align="right" width="100" height="110" src="assets/img/renu.jpeg">
+<img align="right" width="100" height="110" src="assets/img/renu.png">
 
 **Mrs. Renu Chavan**
 <br>M.A. Music (Vocal)
