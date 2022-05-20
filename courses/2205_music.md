@@ -50,7 +50,7 @@ vocalist
 <img align="right" width="100" height="110" src="../assets/img/kajal.png">
 
 **Mrs. Kajal heer**
-<br>M.Phil.,NET
+<br>M.Phil., NET
 <br>2 yrs teaching experience
 
 <br/>
@@ -59,7 +59,7 @@ vocalist
 
 **Mrs. Renu Chavan**
 <br>M.A. Music (Vocal)
-<br>Vocalist All India Radio(2006)
+<br>Vocalist All India Radio (2006)
 <br/>
 <br/>
 <br/>
