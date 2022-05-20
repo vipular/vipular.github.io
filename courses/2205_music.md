@@ -6,6 +6,16 @@ profile_picture:
 ---
 
 # <span style="color: Black">**SWARANJALI**</span>
+### A Vocal Music Course for Beginners
+
+### [Click here to register](https://forms.office.com/r/KbWcdKXtgf)
+
+30 May - 12 June 2022 <br>
+Six classes of 1 hour each <br>
+Venue: LHC <br>
+Timings: After 5 PM <br>
+Open to all above 10 years of age <br>
+No Fees; Limited Seats <br>
 
 This course takes you on a melodious 
 journey of music. It starts with the introduction of 
@@ -30,12 +40,10 @@ vocalist
 <br>
 
 ## <span style="color: Black">**What you will learn**</span>
-- Basic of Indian Classical Music
-- Foundational Concepts of Swara
-- Introduction to Voice Education
-- Learning Alankaar, Paltas and BasicTaal
-- One tarana or sargamgeet
-- Able to play teentaal on hand
+- Basics of Indian Classical Music
+- Foundational Concepts of Svaras
+- Learning Alankaar, Paltas and basic Taals
+- Learning the correct intention of Svaras with the help of Voice Education
 
 ## <span style="color: Black">**Our Music Teacher**</span>
 
@@ -60,4 +68,3 @@ vocalist
 
 <span style="color: Black">**Venue:**</span>  Lecture Hall Complex, IIT Kanpur
 
-### [Click here to register](https://forms.office.com/r/KbWcdKXtgf)
