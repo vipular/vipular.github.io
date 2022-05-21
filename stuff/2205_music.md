@@ -10,10 +10,12 @@ profile_picture:
 
 ### [Click here to register](https://forms.office.com/r/KbWcdKXtgf)
 
-30 May - 12 June 2022 <br>
-Six classes of 1 hour each <br>
+First batch: 30 May - 10 June 2022 <br>
+Second batch: 13 June - 25 June 2022 <br>
+Eight classes of 1 hour each <br>
 Venue: LHC <br>
 Timings: After 5 PM <br>
+Two Batches
 Open to all above 10 years of age <br>
 No Fees; Limited Seats <br>
 
@@ -32,8 +34,7 @@ what makes musical compositions work will also
 be taught.
 This course will also emphasise on teaching 
 participants how to control their breathing, 
-maintain proper posture, and pronounce words 
-correctly. All of these factors contribute 
+maintain proper posture, and learning the correct intonation of svaras with the help of voice education. All of these factors contribute 
 significantly to the development of a good 
 vocalist
 <br>
@@ -43,14 +44,14 @@ vocalist
 - Basics of Indian Classical Music
 - Foundational Concepts of Svaras
 - Learning Alankaar, Paltas and basic Taals
-- Learning the correct intention of Svaras with the help of Voice Education
+- Devotional Songs
 
 ## <span style="color: Black">**Our Music Teacher**</span>
 
 <img align="right" width="100" height="110" src="../assets/img/kajal.png">
 
 **Mrs. Kajal heer**
-<br>M.Phil., NET
+<br>M.Phil., UGC - NET
 <br>2 yrs teaching experience
 
 <br/>
@@ -60,6 +61,8 @@ vocalist
 **Mrs. Renu Chavan**
 <br>M.A. Music (Vocal)
 <br>Vocalist All India Radio (2006)
+<br>"Nagm-e-Sagar", Bal-Gandharv, Pune, 2004
+<br>At various workshos and conferences, IIT Kanpur
 <br/>
 <br/>
 <br/>
