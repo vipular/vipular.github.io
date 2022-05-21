@@ -34,7 +34,7 @@ what makes musical compositions work will also
 be taught.
 This course will also emphasise on teaching 
 participants how to control their breathing, 
-maintain proper posture, and learning the correct intonation of svaras with the help of voice education. All of these factors contribute 
+maintain proper posture, and learning the correct intonation of swaras with the help of voice education. All of these factors contribute 
 significantly to the development of a good 
 vocalist
 <br>
@@ -42,7 +42,7 @@ vocalist
 
 ## <span style="color: Black">**What you will learn**</span>
 - Basics of Indian Classical Music
-- Foundational Concepts of Svaras
+- Foundational Concepts of Swaras
 - Learning Alankaar, Paltas and basic Taals
 - Devotional Songs
 
@@ -69,6 +69,6 @@ vocalist
 <br/>
 
 
-<span style="color: Black">**Venue:**</span>  Lecture Hall Complex, IIT Kanpur
+<span style="color: Black">**Venue:**</span>  Lecture Hall Complex, IIT Kanpur<br>
 <span style="color: Black">**Contact:**</span>  Shiv Narayan Pandey, shivnp@iitk.ac.in 
 
