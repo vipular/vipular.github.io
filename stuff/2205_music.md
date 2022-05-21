@@ -36,7 +36,7 @@ This course will also emphasise on teaching
 participants how to control their breathing, 
 maintain proper posture, and learning the correct intonation of swaras with the help of voice education. All of these factors contribute 
 significantly to the development of a good 
-vocalist
+vocalist.
 <br>
 <br>
 
@@ -67,8 +67,5 @@ vocalist
 <br/>
 <br/>
 <br/>
-
-
-<span style="color: Black">**Venue:**</span>  Lecture Hall Complex, IIT Kanpur<br>
 <span style="color: Black">**Contact:**</span>  Shiv Narayan Pandey, shivnp@iitk.ac.in 
 
