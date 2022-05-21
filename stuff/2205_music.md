@@ -12,7 +12,7 @@ profile_picture:
 
 First batch: 30 May - 10 June 2022 <br>
 Second batch: 13 June - 25 June 2022 <br>
-Eight classes of 1 hour in each batch <br>
+Eight classes of 1 hour each in every single batch <br>
 Venue: LHC <br>
 Timings: After 5 PM <br>
 Two Batches
