@@ -62,7 +62,7 @@ vocalist
 <br>M.A. Music (Vocal)
 <br>Vocalist All India Radio (2006)
 <br>"Nagm-e-Sagar", Bal-Gandharv, Pune, 2004
-<br>At various workshos and conferences, IIT Kanpur
+<br>At various workshops and conferences, IIT Kanpur
 <br/>
 <br/>
 <br/>
