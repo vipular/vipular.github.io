@@ -18,6 +18,7 @@ Timings: After 5 PM <br>
 Two Batches
 Open to all above 10 years of age <br>
 No Fees; Limited Seats <br>
+<span style="color:red">Last date for registration is 28th May 2022</span><br>
 
 This course takes you on a melodious 
 journey of music. It starts with the introduction of 
