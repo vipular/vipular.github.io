@@ -6,7 +6,7 @@ profile_picture:
 ---
 ## <span style="color: Green">About me:</span>
 **Vipul Arora**
-<br>Assistant Professor
+<br>Associate Professor
 <br>Department of Electrical Engineering
 <br>IIT Kanpur
 <br>Email: vipul ar (AT) iitk (.) ac (.) in
