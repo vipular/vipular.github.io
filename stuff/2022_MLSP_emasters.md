@@ -8,7 +8,7 @@
   for analysis and transformation of signals. The lectures will
   focus on mathematical principles, and there will be coding based
   assignments for implementation. Prior exposure to ML is not
-  required. Intuitive understanding of the principles and simple examples will be provided for easy grasp.
+  required. Intuitive understanding and illustrative examples will be provided for easy grasp of the principles.
 
 ## Pre-requisites:
 There are no official pre-requisites for the course. But you may brush up your knowledge of the basics of linear algebra and probability theory.
