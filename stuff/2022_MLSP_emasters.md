@@ -1,7 +1,6 @@
 # Machine Learning for Signal Processing - eMasters
 
 ## Vipul Arora <br> Department of Electrical Engineering, IIT Kanpur
-**&#9888; The focus will be on AUDIO signals**
 
 <!--
 :warning:
@@ -25,16 +24,15 @@ Rahul   - rkodag@ <br>
 Ali     - alifaraz@ <br>
 -->
 ## Course Objectives:
-  This course aims at introducing the students to
-  machine learning (ML) techniques used for various signal
-  processing applications. There will be spectral processing techniques 
-  for analysis and transformation of audio signals. The lectures will
+  This course aims at introducing machine learning (ML) techniques used for various signal
+  processing applications. There will be spectral processing methods 
+  for analysis and transformation of signals. The lectures will
   focus on mathematical principles, and there will be coding based
   assignments for implementation. Prior exposure to ML is not
-  required. The course will be focused on applications in audio signal processing, and the theory will be tailored towards that end. 
+  required. Intuitive understanding of the principles and simple examples will be provided for easy grasp.
 
 ## Pre-requisites:
-There are no official pre-requisites for the course. But you may brush up your knowledge of linear algebra and probability theory basics.
+There are no official pre-requisites for the course. But you may brush up your knowledge of the basics of linear algebra and probability theory.
 <!-- - Digital signal processing (EE301A or equivalent)(If you have not done it, you will have to learn it. EE200 may also help.)
 - Basics of Programming (ESc101 or equivalent)
 
@@ -56,7 +54,7 @@ Teams of 2 (project + lecture notes) -->
 
 ## Topics:
 
-- Digital Signal Processing for audio 
+- Digital Signal Processing basics
 - Machine Learning basics
   - Supervised Machine Learning
   - Model Evaluation
