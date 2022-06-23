@@ -2,27 +2,6 @@
 
 ## Vipul Arora <br> Department of Electrical Engineering, IIT Kanpur
 
-<!--
-:warning:
-**Units:** 3-0-0-0-9 (3 hours lecture; total 9 credits)
-Course link: https://hello.iitk.ac.in/course/ee698v
-
-## Registration Note: 
-- I am planning to have around 50 UGs and rest all PGs. 
-- No limit on the number of PGs.
-- For UGs (any year):
-  - First come first serve.
-  - Anyone who has done no other ML course will be given preference; please write in the remarks "No other ML course". *Please do not email me.*
-
-
-
-## TAs:
-Vikas 	- kvikas@ <br>
-Sumit 	- krsumit@ <br>
-Adhiraj	- adhiraj@ <br>
-Rahul   - rkodag@ <br>
-Ali     - alifaraz@ <br>
--->
 ## Course Objectives:
   This course aims at introducing machine learning (ML) techniques used for various signal
   processing applications. There will be spectral processing methods 
@@ -33,24 +12,6 @@ Ali     - alifaraz@ <br>
 
 ## Pre-requisites:
 There are no official pre-requisites for the course. But you may brush up your knowledge of the basics of linear algebra and probability theory.
-<!-- - Digital signal processing (EE301A or equivalent)(If you have not done it, you will have to learn it. EE200 may also help.)
-- Basics of Programming (ESc101 or equivalent)
-
-The course will need a strong background in linear algebra and probability theory. -->
-
-<!-- ## Grading:
-
-- Quizzes: 10% × 2 (27 August and 29 October, both Fridays)
-- Project: 15%
-- Assignments: 5%
-- Lecture Notes: 5% (latex document overleaf.com, draw figures in draw.io, submission via github)
-  - Lecture notes for the topic
-  - Coding ipynb file explaining the topic with a simple example
-  - Mind map of entire course (bonus 2%)
-- Mid-sem: 25%
-- End-sem: 30%
-
-Teams of 2 (project + lecture notes) -->
 
 ## Topics:
 
@@ -65,26 +26,6 @@ Teams of 2 (project + lecture notes) -->
 - Gaussian Mixture Models
 - Some Applications in Signal Processing (time permitting)
 
-<!-- 
-<sup>1</sup> Supervised and Unsupervised learning, Linear Classification and Regression, Evaluation Metrics 
-<sup>2</sup> Multi-class classification and Multi-label classification, different kinds of non-linearities, objective functions and learning methods 
-<sup>2</sup> Hidden Markov Models, Finite State Transducers and Dynamic Programming
-
-
-## Grading Scheme
-1. Continuous Assessment – 50% <br>
-Assignments, Quizzes
-2. Mid-semester Exam – 20% <br>
-Written and/or oral exam
-3. End-semester Exam – 30% <br>
-Written exam and/or project submission
-
-There may be oral exams or viva via video chat or phone call.
-
-
-**Plagiarism Penalty:**<br>
-As heavy as possible. Zero-tolerance policy.
--->
 
 ## References:
 
@@ -92,30 +33,3 @@ As heavy as possible. Zero-tolerance policy.
   - ["Deep Learning", I. Goodfellow, Y, Bengio, A. Courville, MIT Press, 2016.](https://www.deeplearningbook.org/)
   - [Tensorflow tutorials](https://www.tensorflow.org/tutorials/)
 
-<!-- 
-  - "An Introduction to Audio Content Analysis", A. Lerch, Wiley-IEEE Press, 2012.
-  - "Speech and audio signal processing: processing and perception of speech and music",
-    B. Gold, N. Morgan, D. Ellis, Wiley, 2011
-  - "Automatic Speech Recognition: A Deep Learning Approach", D. Yu
-    and L. Deng, Springer, 2016. 
-  - "Signal Processing Methods for Music Transcription", A. Klapuri 
-    and M. Davy, Springer, 2007.
-**Articles:**
-  - Hendrik Purwins, Bo Li, Tuomas Virtanen, Jan Schlüter, Shuoyiin Chang, Tara Sainath. 
-    "Deep Learning for Audio Signal Processing", in
-    Journal of Selected Topics of Signal Processing, Vol. 13, No. 2, May 2019,
-    pages 206–219.
-  - Preeti Rao. "Audio signal processing", Speech, Audio, Image and Biomedical Signal 
-    Processing using Neural Networks. Springer, Berlin, Heidelberg, 2008. 169-189.
-
-
-  - https://ccrma.stanford.edu/~jos/sasp/
-  - "Deep Learning", I. Goodfellow, Y, Bengio, A. Courville, MIT
-    Press, 2016. 
-  - https://www.youtube.com/watch?v=0ALKGR0I5MA - Basic Sound Processing in Python | SciPy 2015 | Allen Downey
-  - Introduction to Audio Analysis: MATLAB approach, Theodoros Giannakopoulos and Aggelos Pikrakis
-  - "Introduction to Audio Signal Processing", Warren L. G. Koontz,
-    RIT Press, 2016.
-
-  - https://opensource.com/article/19/9/audio-processing-machine-learning-python
--->
