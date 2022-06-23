@@ -67,5 +67,7 @@ vocalist.
 <br/>
 <br/>
 <br/>
-<span style="color: Black">**Contact:**</span>  Shiv Narayan Pandey, shivnp@iitk.ac.in 
+<span style="color: Black">**Contact:**</span>  Shiv Narayan Pandey, shivnp@iitk.ac.in </br>
+                                                Parampreet Singh, params21@iitk.ac.in 
+
 
