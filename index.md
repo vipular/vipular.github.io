@@ -38,8 +38,8 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 
 | |
 | -- |
-| 20 May 2022: <br>**[Music Course](stuff/2205_music)**: Learn music with computer assistance tools |
-| 22 Feb 2022: <br>**[NLTM](stuff/2205_music)**: Grant for Spoken Term Detection from National Language Technologies Mission |
+| 20 May 2022: <br>**[Music Course](stuff/2022_musicCourse)**: Learn music with computer assistance tools |
+| 22 Feb 2022: <br>**[NLTM](stuff/2022_nltmProject)**: Grant for Spoken Term Detection from National Language Technologies Mission |
 | 27 Aug 2021: <br>**[First position in NEC 2021 Grand Challenge](https://www.neuroergonomicsconference.um.ifi.lmu.de/pbci/)**: Passive BCI Hackathon to decode mental workload from EEG signals. Team: Swapnil Singh, Vartika Gupta, Tharun Kumar Reddy, Vipul Arora |
 | 11 Aug 2021: <br>**[Second position in IEEE ICAS 2021 Challenge](https://2021.ieee-icas.org/challenge/)**: Self-awareness in heterogeneous multi-robot systems. Team: Nitish Vikas Deshpande, Afzal Rao, Adhiraj Banerjee, Vipul Arora |
 | 19 July 2021: <br>**Two grants from Prasar Bharati:** Received two grants, titled, "Automatic Speech Recognition for Speech Subtitling (Making Broadcast Content in various Indian Languages Accessible)" and "Archival Content Retrieval through Audio and Text Query" from Prasar Bharati |
