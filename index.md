@@ -31,6 +31,7 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 ### Ongoing
 - [Automatic Speech Recognition](https://vipular.github.io/stuff/2021_PrasarBharatiProjects.html) by Prasar Bharati
 - [Audio Archival Content Retrieval](https://vipular.github.io/stuff/2021_PrasarBharatiProjects.html) by Prasar Bharati
+- [Spoken Term Detection (Voice Search)](stuff/2022_nltmProject) by NLTM
 - [Automatic Music Tutor](https://vipular.github.io/narottam.github.io) by IMPRINT
 - [Sensor Calibration](https://vipular.github.io/stuff/2021_sensorcalibration.html) ML based calibration of air quality sensors by Maharashtra Pollution Control Board
 
