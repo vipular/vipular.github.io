@@ -1,4 +1,4 @@
-# Machine Learning for Signal Processing - eMasters
+# Machine Learning for Signal Processing - EE903 (eMasters)
 
 ## Vipul Arora <br> Department of Electrical Engineering, IIT Kanpur
 
@@ -26,6 +26,24 @@ There are no official pre-requisites for the course. But you may brush up your k
 - Gaussian Mixture Models
 - Some Applications in Signal Processing (time permitting)
 
+## Lecture wise topics
+
+| Week | Video in dropbox | Topics                                                           |
+|------|------------------|------------------------------------------------------------------|
+| 1    | Lecture 1        | Signal Processing and Machine Learning                           |
+| 1    | Lecture 2        | Time series, sampling and quantization, convolution, correlation |
+| 2    | Lecture 3        | Periodic signals, Fourier Transforms                             |
+| 2    | Lecture 4        | Spectral analysis, STFT                                          |
+| 2    | Lecture 5        | Representations and Feature extraction                           |
+| 3    | Lecture 6        | ML introduction, geometrical understanding                       |
+| 3    | Lecture 7        | ML evaluation                                                    |
+| 3    | Lecture 8        | Data collection/annotation/extraction, model selection           |
+| 4    | Lecture 9        | Linear regression, Least square solution, ridge regression       |
+| 4    | Lecture 10       | Gradient descent, non-linear regression                          |
+| 5    | Lecture 11       | Number of model parameters, error function                       |
+| 5    | Lecture 12       | Back propagation algorithm                                       |
+| 6    | Lecture 13       | Linear classification, multi-class classification                |
+| 6    | Lecture 14       | Multi-class vs multi-label classification, Perceptron algo.      |
 
 ## References:
 
