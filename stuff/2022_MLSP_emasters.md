@@ -51,3 +51,7 @@ There are no official pre-requisites for the course. But you may brush up your k
   - ["Deep Learning", I. Goodfellow, Y, Bengio, A. Courville, MIT Press, 2016.](https://www.deeplearningbook.org/)
   - [Tensorflow tutorials](https://www.tensorflow.org/tutorials/)
 
+## Links:
+
+- [Course portal](https://ipearl.emasters.iitk.ac.in/courses/course-v1:EMIITK+CM-C1Q3M2+2022/course/)
+- [Codes](https://drive.google.com/drive/folders/1FtgRW6MS0_GqaaJoR4BAf69GxP0Do5Sv?usp=sharing)
