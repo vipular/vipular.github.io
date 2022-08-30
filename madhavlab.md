@@ -44,16 +44,18 @@ A smart percussion accompaniment for live music performances. Implemented for Ki
 
 ### <span style="color: Black">Ongoing</span>
 
-* Swapnil Dey - Semantic Learning
 * Jagadeesh K. Babu - Music information retrieval
-* Kalpit Yadav - Sensor calibration
-* Nishant Kumar - ML with imbalanced data
 * Gaurav Tank - Music information retrieval
 * Abhishek Saini - ML for Physics
+* Thishyan Raj - Speech Recognition
+* Raja Raviteja - Speech Recognition
+* Ali Faraz - Normalizing Flows for Physics
 
 ### <span style="color: Black">Completed</span>
 
-* Shivam Pal (2020, NLP)
+* Swapnil Dey (2021, Information Bottleneck in ML)
+* Kalpit Yadav (2021, Sensor calibration), joined Jio Saavn
+* Shivam Pal (2020, NLP), own start-up
 * Shivangi Ranjan (2020, Music Information Retrieval), joined Intel
 * Aman Kumar Sharma (2020, Music Information Retrieval), joined Cisco
 * Jaivardhan Kapoor (2020, ML for Physics), joined PhD at Max Plank Tübingen
