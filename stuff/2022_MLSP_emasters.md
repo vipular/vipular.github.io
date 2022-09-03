@@ -44,6 +44,10 @@ There are no official pre-requisites for the course. But you may brush up your k
 | 5    | Lecture 12       | Back propagation algorithm                                       |
 | 6    | Lecture 13       | Linear classification, multi-class classification                |
 | 6    | Lecture 14       | Multi-class vs multi-label classification, Perceptron algo.      |
+| 7    | Lecture 15       | Neural Network Optimization      |
+| 7    | Lecture 16       | Convolutional Neural Networks - I      |
+| 8    | Lecture 17       | Convolutional Neural Networks - II     |
+| 8    | Lecture 18       | Recurrent Neural Networks      |
 
 ## References:
 
