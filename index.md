@@ -17,9 +17,14 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 
 ### Research interests:
 - Machine learning for audio signal processing
-  - speech, music and acoustic events
-- Machine learning for Physics                            
+  - audio retrieval: multi-label classification
+  - melody estimation: transfer learning
+  - speech recognition: confidence estimation
+  - music analysis: explainable AI
+- Machine learning for Physics 
+  - generative modeling, normalizing flows, adversarial learning
 - Time series analysis on sensor data
+  - domain adaptation, semi-supervised learning
 
 ## <span style="color: Green">Opportunities:</span>
 
@@ -32,13 +37,17 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 - [Automatic Speech Recognition](https://vipular.github.io/stuff/2021_PrasarBharatiProjects.html) by Prasar Bharati
 - [Audio Archival Content Retrieval](https://vipular.github.io/stuff/2021_PrasarBharatiProjects.html) by Prasar Bharati
 - [Spoken Term Detection (Voice Search)](stuff/2022_nltmProject) by NLTM
+- [Machine Learning for lattice theories in Physics]() core research grant from DST
 - [Automatic Music Tutor](https://vipular.github.io/narottam.github.io) by IMPRINT
 - [Sensor Calibration](https://vipular.github.io/stuff/2021_sensorcalibration.html) ML based calibration of air quality sensors by Maharashtra Pollution Control Board
+- [Machine Learning for Lattice Quantum Chromodynamics]() funded by SPARC, collaboration with Prof. W. Detmold and Prof. P. Shanahan, MIT
+- [Digitizing and AI-fying Maternity Care in Rural India]() funded by Google AI for Social Good program
 
 ## <span style="color: Green">News:</span>  
 
 | |
 | -- |
+| 14 July 2022: <br>**Paper accepted at ISMIR 2022**: Attention Based Robust Embeddings for Query by Example |
 | 20 May 2022: <br>**[Music Course](stuff/2022_musicCourse)**: Learn music with computer assistance tools |
 | 22 Feb 2022: <br>**[NLTM](stuff/2022_nltmProject)**: Grant for Spoken Term Detection from National Language Technologies Mission |
 | 27 Aug 2021: <br>**[First position in NEC 2021 Grand Challenge](https://www.neuroergonomicsconference.um.ifi.lmu.de/pbci/)**: Passive BCI Hackathon to decode mental workload from EEG signals. Team: Swapnil Singh, Vartika Gupta, Tharun Kumar Reddy, Vipul Arora |
