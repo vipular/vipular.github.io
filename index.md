@@ -47,7 +47,7 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 
 | |
 | -- |
-| 14 July 2022: <br>**Paper accepted at ISMIR 2022**: Attention Based Robust Embeddings for Query by Example |
+| 14 July 2022: <br>**Paper accepted at ISMIR 2022**: Attention-Based Audio Embeddings for Query-by-Example |
 | 20 May 2022: <br>**[Music Course](stuff/2022_musicCourse)**: Learn music with computer assistance tools |
 | 22 Feb 2022: <br>**[NLTM](stuff/2022_nltmProject)**: Grant for Spoken Term Detection from National Language Technologies Mission |
 | 27 Aug 2021: <br>**[First position in NEC 2021 Grand Challenge](https://www.neuroergonomicsconference.um.ifi.lmu.de/pbci/)**: Passive BCI Hackathon to decode mental workload from EEG signals. Team: Swapnil Singh, Vartika Gupta, Tharun Kumar Reddy, Vipul Arora |
