@@ -4,7 +4,7 @@ profile_picture:
   src: /assets/img/profile-pic.jpg
   alt: website picture
 ---
-## <span style="color: Green">About me:</span>
+<!-- ## <span style="color: Green">About me:</span> -->
 **Vipul Arora**
 <br>Associate Professor
 <br>Department of Electrical Engineering
