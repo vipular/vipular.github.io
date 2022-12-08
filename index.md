@@ -30,8 +30,8 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 
 - Available [UG projects](stuff/2022_UGPs.md) (June 2022)
 - Job Openings:
-  - We are looking for postdocs and senior researchers. If interested, send me an email. (Sept 2022)
-  - We are looking for full stack developers to deploy our research outcomes. If interested, send me an email. (Sept 2022)
+  - We are looking for postdocs and senior researchers. If interested, send me an email. (Dec 2022)
+  - We are looking for research associates to work on research and deployment for public use. If interested, send me an email. (Dec 2022)
 
 ## <span style="color: green">Projects:</span>
 ### Ongoing
