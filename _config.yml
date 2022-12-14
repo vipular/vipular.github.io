@@ -14,11 +14,11 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Publications
+    # - name: Publications
     - name: Teaching
     - name: Resources
-    - name: MadhavLab
-      link: https://madhavlab.github.io/ 
+    # - name: MadhavLab
+      # link: https://madhavlab.github.io/ 
    
   
 
