@@ -13,6 +13,9 @@ profile_picture:
 <br>**Postal Address:** 305-D, ACES building, IIT Kanpur - 208016 ([<ins>map</ins>](https://www.google.com/maps/place/ACES+%2F+Electrical+Engineering+Department/@26.5130198,80.2321879,19.65z/data=!4m5!3m4!1s0x399c36fe1e36c67f:0x13c8303ef646955!8m2!3d26.5129531!4d80.2320872))
 <br>**Office location:** Sustainable Energy Engineering Building, Near Media Labs ([<ins>map</ins>](https://www.google.com/maps/dir//26.5100321,80.2356058/@26.5100738,80.2356058,38m/data=!3m1!1e3!4m2!4m1!3e0))
 
+- I am leading [MADHAV lab](https://madhavlab.github.io). For latest info on my research, please see that.
+- I am currently the DUGC convener of EE, IITK. FAQs for EE UG students are [here](https://vipular.github.io/stuff/2022_DUGC.html)
+
 I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](http://www.iitk.ac.in/ee/) from the [<ins>Indian Institute of Technology (IIT) Kanpur</ins>](http://www.iitk.ac.in/), India. My Ph.D. thesis was titled "[<ins>Analysis of Pitched Polyphonic Music for Source Transcription</ins>](https://drive.google.com/file/d/0By8wZfM49Y2ScC1vc2lVX0I1c1U/view)", where I worked on analyzing music audio to identify and transcribe different instruments/voices playing simultaneously. During postdoc at Oxford University (UK), I developed [<ins>speech recognition</ins>](https://www.youtube.com/watch?v=Tgr3Y_U9BsQ) systems using linguistic principles, with applications in automatic language teacher and speech recognition for low-resource languages. At Amazon in Boston (USA), I worked on audio classification for developing Alexa [<ins>home security</ins>](https://www.theverge.com/2018/9/20/17883428/amazon-alexa-guard-alarm-ring-smart-home-security-price) system, with research focusing on classification with imbalanced data.
 
 ### Research interests:
@@ -26,14 +29,14 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 - Time series analysis on sensor data
   - domain adaptation, semi-supervised learning
 
-## <span style="color: Green">Opportunities:</span>
+<!-- ## <span style="color: Green">Opportunities:</span>
 
 - Available [UG projects](stuff/2022_UGPs.md) (June 2022)
 - Job Openings:
   - We are looking for postdocs and senior researchers. If interested, send me an email. (Dec 2022)
-  - We are looking for research associates to work on research and deployment for public use. If interested, send me an email. (Dec 2022)
+  - We are looking for research associates to work on research and deployment for public use. If interested, send me an email. (Dec 2022) -->
 
-## <span style="color: green">Projects:</span>
+<!-- ## <span style="color: green">Projects:</span>
 ### Ongoing
 - [Automatic Speech Recognition](https://vipular.github.io/stuff/2021_PrasarBharatiProjects.html) by Prasar Bharati
 - [Audio Archival Content Retrieval](https://vipular.github.io/stuff/2021_PrasarBharatiProjects.html) by Prasar Bharati
@@ -42,9 +45,9 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 - [Automatic Music Tutor](https://vipular.github.io/narottam.github.io) by IMPRINT
 - [Sensor Calibration](https://vipular.github.io/stuff/2021_sensorcalibration.html) ML based calibration of air quality sensors by Maharashtra Pollution Control Board
 - [Machine Learning for Lattice Quantum Chromodynamics]() funded by SPARC, collaboration with Prof. W. Detmold and Prof. P. Shanahan, MIT
-- [Digitizing and AI-fying Maternity Care in Rural India]() funded by Google AI for Social Good program
+- [Digitizing and AI-fying Maternity Care in Rural India]() funded by Google AI for Social Good program -->
 
-## <span style="color: Green">News:</span>  
+<!-- ## <span style="color: Green">News:</span>  
 
 | |
 | -- |
@@ -74,7 +77,7 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 | 1 Feb 2019:<br>**Paper accepted in ICASSP 2019**: Vipul Arora, Ming Sun and Chao Wang, "Deep Embeddings for Rare Audio Event Detection With Imbalanced Data", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019. [[pdf]](https://drive.google.com/file/d/1Z7wCbKnz1YqvVVmQF40FeXUGIrpkgY3t/view) [[blog]](https://www.amazon.science/blog/to-correct-imbalances-in-training-data-dont-oversample-cluster) |
 
 <br/>
-
+ -->
 
 
 
