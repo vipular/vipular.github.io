@@ -5,7 +5,9 @@ slug: /teaching
 ---
 ## Courses
 
-* **2023 Spring**: <span style="color: red">(NEW)</span>:
+* **2023 Fall**: <span style="color: red">(NEW)</span>:
+    * EE798P - Audio Representation Learning [[link]](stuff/2023_ARL.md)
+* **2023 Spring**:
     * ESc201A - Introduction to Electronics [[link]](stuff/2023_ESc201.md)
 * **2022 Fall**:
     * EE603A - Machine Learning for Signal Processing [[link]](stuff/2022_MLSP.md)
