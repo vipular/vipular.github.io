@@ -27,7 +27,7 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 - Machine learning for Physics 
   - generative modeling, normalizing flows, adversarial learning
 - Time series analysis on sensor data
-  - domain adaptation, semi-supervised learning
+  - Sensor calibration: domain adaptation, semi-supervised learning
 
 <!-- ## <span style="color: Green">Opportunities:</span>
 
