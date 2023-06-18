@@ -5,8 +5,8 @@ profile_picture:
   alt: website picture
 ---
 **Vipul Arora**
-<br>Associate Professor
-<br>Department of Electrical Engineering
+<br>Associate Professor, Department of Electrical Engineering
+<br>Adjunct Faculty, Samtel Centre for Display Technologies and Flexible Electronics
 <br>IIT Kanpur
 <br>Email: vipul ar (AT) iitk (.) ac (.) in
 <br>**Postal Address:** 305-D, ACES building, IIT Kanpur - 208016 ([<ins>map</ins>](https://www.google.com/maps/place/ACES+%2F+Electrical+Engineering+Department/@26.5130198,80.2321879,19.65z/data=!4m5!3m4!1s0x399c36fe1e36c67f:0x13c8303ef646955!8m2!3d26.5129531!4d80.2320872))
