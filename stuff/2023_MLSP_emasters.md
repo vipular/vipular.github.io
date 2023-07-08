@@ -2,6 +2,10 @@
 
 ## Vipul Arora <br> Department of Electrical Engineering, IIT Kanpur
 
+## TAs
+- Kavya Saxena (kavyars@iitk.ac.in)
+- Raja Raviteja (rraja21@iitk.ac.in)
+
 ## Course Objectives:
   This course aims at introducing machine learning (ML) techniques used for various signal
   processing applications. There will be spectral processing methods 
