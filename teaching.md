@@ -5,9 +5,13 @@ slug: /teaching
 ---
 ## Courses
 
-* **2023 Fall**: <span style="color: red">(NEW)</span>:
+* **2024 Spring**: <span style="color: red">(NEW)</span>:
+    * EE798B - Data Structures and Algorithms for Electrical Engineers [[link]](stuff/2024_DSA.md)
+* **2024 Spring**: <span style="color: red">(NEW)</span>:
+    * EE698R - Advanced Topics in Machine Learning [[link]](stuff/2024_ML2.md)
+* **2023 Fall**:
     * EE798P - Audio Representation Learning [[link]](stuff/2023_ARL.md)
-* **2023 Fall**: <span style="color: red">(NEW)</span>:
+* **2023 Fall**:
     * EE903 - Machine Learning for Signal Processing (for emasters) [[link]](stuff/2023_MLSP_emasters.md)
 * **2023 Spring**:
     * ESc201A - Introduction to Electronics [[link]](stuff/2023_ESc201.md)
