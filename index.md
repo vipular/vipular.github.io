@@ -12,11 +12,9 @@ profile_picture:
 <br>**Office location:** Sustainable Energy Engineering Building, Near Media Labs ([<ins>map</ins>](https://www.google.com/maps/dir//26.5100321,80.2356058/@26.5100738,80.2356058,38m/data=!3m1!1e3!4m2!4m1!3e0))
 <br>**Postal Address:** 305-D, ACES building, IIT Kanpur - 208016 ([<ins>map</ins>](https://www.google.com/maps/place/ACES+%2F+Electrical+Engineering+Department/@26.5130198,80.2321879,19.65z/data=!4m5!3m4!1s0x399c36fe1e36c67f:0x13c8303ef646955!8m2!3d26.5129531!4d80.2320872))
 
-- [My calendar](https://outlook.office365.com/owa/calendar/243a78dea07e492f889ea8d6e8ac40a4@iitk.ac.in/c5a3f9c6842a46319bed3258aad346d02708545064820317840/calendar.html) (office hours: WTh 5-6 PM)
 - [MADHAV lab](https://madhavlab.github.io): For latest info on my research, team, publications and open positions.
-- [DUGC page](https://vipular.github.io/stuff/2022_DUGC.html): I am currently the DUGC convener of EE, IITK.
-- [MLSP Seminar Series](/stuff/2023_MLSPseminars.md)
-- [GitaSTEM newsletter](https://gitastem.substack.com)
+- [My calendar](https://outlook.office365.com/owa/calendar/243a78dea07e492f889ea8d6e8ac40a4@iitk.ac.in/c5a3f9c6842a46319bed3258aad346d02708545064820317840/calendar.html) (office hours: WTh 5-6 PM)
+- [GitaSTEM](https://gitastem.substack.com)
 
 ### About me:
 I work on developing learning based methods mostly for audio processing (music, speech, and other sounds). I have interest in Physics, so I work with Physicists to develop learning based methods for problems in computational Physics too.
@@ -24,6 +22,8 @@ I work on developing learning based methods mostly for audio processing (music, 
 I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](http://www.iitk.ac.in/ee/) from the [<ins>Indian Institute of Technology (IIT) Kanpur</ins>](http://www.iitk.ac.in/), India. My Ph.D. thesis was titled "[<ins>Analysis of Pitched Polyphonic Music for Source Transcription</ins>](https://drive.google.com/file/d/0By8wZfM49Y2ScC1vc2lVX0I1c1U/view)", where I worked on analyzing music audio to identify and transcribe different instruments/voices playing simultaneously. During postdoc at Oxford University (UK), I developed [<ins>speech recognition</ins>](https://www.youtube.com/watch?v=Tgr3Y_U9BsQ) systems using linguistic principles, with applications in automatic language teacher and speech recognition for low-resource languages. At Amazon in Boston (USA), I worked on audio classification for developing Alexa [<ins>home security</ins>](https://www.theverge.com/2018/9/20/17883428/amazon-alexa-guard-alarm-ring-smart-home-security-price) system, with research focusing on classification with imbalanced data.
 
 ### Research interests:
+Speech, Music, Audio processing
+
 Machine learning:
 - Generative Machine Learning
 - Semi-supervised learning
