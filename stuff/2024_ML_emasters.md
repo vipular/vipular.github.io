@@ -3,8 +3,8 @@
 ## Vipul Arora <br> Department of Electrical Engineering, IIT Kanpur
 
 ## TAs
-- Anup Singh (sanup@iitk.ac.in)
-- Raja Raviteja (rraja21@iitk.ac.in)
+- Anup Singh (sanup@iitk.ac.in), PhD student
+- Raja Raviteja (rraja21@iitk.ac.in), MS-R student
 
 ## Course Objectives:
   This course aims to introduce the students to machine learning (ML) techniques used for various engineering applications. The lectures will focus on mathematical principles, and there will be coding based assignments for implementation, introducing students to tools such as sklearn and keras.
