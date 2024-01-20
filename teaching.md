@@ -6,7 +6,7 @@ slug: /teaching
 ## Courses
 
 * **2024 Spring**: <span style="color: red">(NEW)</span>:
-    * EE951 - Introduction to Machine Learning (for e-masters) [[link]](stuff/2024_ML_emasters.md)
+    * EE952 - Introduction to Machine Learning (for e-masters) [[link]](stuff/2024_ML_emasters.md)
 * **2024 Spring**: <span style="color: red">(NEW)</span>:
     * EE798B - Data Structures and Algorithms for Electrical Engineers [[link]](stuff/2024_DSA.md)
 * **2024 Spring**: <span style="color: red">(NEW)</span>:
