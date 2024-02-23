@@ -22,21 +22,22 @@ There are no official pre-requisites for the course. But you may brush up your k
 
 | Sr. No. 	| Broad Title 	| Topics 	| No. of Hours 	|
 |---	|---	|---	|---	|
-| 1 	|  Introduction and Preliminaries 	| 1.    Classification, Regression, Reinforcement Learning 	| 3 	|
-|  	|  	| 2.    Evaluation measures 	|  	|
-|  	|   	| 3.    Basic probability theory 	|  	|
-| 2 	| Linear Models 	| 4.    Linear Regression 	| 3 	|
-|  	|  	| 5.    Linear Classification 	|  	|
-| 3 	| Supervised Learning 	| 6.    Neural Networks for Regression and Classification 	| 4 	|
-| 4 	| Unsupervised learning 	| 7.    Clustering 	| 3 	|
-|  	|  	| 8.    Gaussian Mixture Models 	|  	|
-|  	|  	| 9.    Dimensionality reduction and visualization 	|  	|
-| 5 	| Time series processing 	| 10.  Time series analysis 	| 2 	|
-|  	|  	| 11.  Dynamic time warping 	|  	|
-| 6 	| ML at scale 	| 12.  Parameter tuning 	| 1 	|
-|  	|  	| 13.  Model selection 	|  	|
-|  	|  	| 14.  Validation and testing 	|  	|
-
+| 1 	| Introduction and Preliminaries 	| 1.    Classification, Regression, Reinforcement Learning 	| 3 	|
+|  	|  	| 2.    Evaluation measures: confusion matrix, accuracy, precision, recall, F-measure, MSE, MAE 	|  	|
+|  	|  	| 3.    Basic probability theory: discrete and continuous random variables, joint pdf, conditional pdf, marginal pdf, Bayes theorem, independence, Expectation values, sampling, standard distributions 	|  	|
+| 2 	| Linear Models 	| 4.    Decision Theory 	| 3 	|
+|  	|  	| 5.    Linear Regression: least square solution, min-norm solution, ridge regression, gradient descent, data normalization 	|  	|
+|  	|  	| 6.    Linear Classification: multi-class classification, multi-label classification 	|  	|
+| 3 	| Supervised Learning 	| 7.    Neural Networks for Regression and Classification: weights, non-linearities, loss functions, training 	| 4 	|
+|  	|  	| 8.    Neural Network optimization: gradient descent methods, risk minimization, hyperparameter tuning, regularization, 	|  	|
+| 4 	| Unsupervised learning 	| 9.    Clustering: K-means 	| 3 	|
+|  	|  	| 10.    Distribution learning: Maximum likelihood estimation, Gaussian pdf, Gaussian Mixture Models 	|  	|
+|  	|  	| 11.    Dimensionality reduction and visualization: Principle component analysis 	|  	|
+| 5 	| Time series processing 	| 12.  Time series analysis 	| 2 	|
+|  	|  	| 13.  Dynamic time warping 	|  	|
+| 6 	| ML at scale 	| 14.  Parameter tuning 	| 1 	|
+|  	|  	| 15.  Model selection 	|  	|
+|  	|  	| 16.  Validation and testing 	|  	|
 ## References:
 
   - ["Pattern Recognition and Machine Learning", C.M. Bishop, 2nd Edition, Springer, 2011.](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
