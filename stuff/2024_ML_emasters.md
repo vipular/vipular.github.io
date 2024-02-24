@@ -33,7 +33,7 @@ There are no official pre-requisites for the course. But you may brush up your k
 |  	|  	| 9.    Convolutional NNs and Recurrent NNs 	|  	|
 | 4 	| Unsupervised learning 	| 10.    Clustering: K-means 	| 3 	|
 |  	|  	| 11.    Distribution learning: Maximum likelihood estimation, Gaussian pdf, Gaussian Mixture Models 	|  	|
-|  	|  	| 12.    Dimensionality reduction and visualization: Principle component analysis 	|  	|
+|  	|  	| 12.    Dimensionality reduction and visualization: Principal component analysis 	|  	|
 | 5 	| Time series processing 	| 13.  Time series analysis 	| 2 	|
 |  	|  	| 14.  Dynamic time warping 	|  	|
 | 6 	| ML at scale 	| 15.  Parameter tuning 	| 1 	|
