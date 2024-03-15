@@ -25,17 +25,17 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 Speech, Music, Audio processing
 
 Machine learning:
+- Human-machine learning
+- Audio LLMs
 - Generative Machine Learning
-- Semi-supervised learning
-- Active learning
-- Confidence estimation
+- Trustworthy AI
 
 Applications:
-- Music education
-- Image generation
 - Audio retrieval
 - Speech recognition
 - Computational Physics (Monte Carlo simulations of lattices in QCD)
+- Image generation
+- Music education
 - Sensor calibration
 
 <!-- ## <span style="color: Green">Opportunities:</span>
