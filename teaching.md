@@ -5,11 +5,13 @@ slug: /teaching
 ---
 ## Courses
 
-* **2024 Spring**: <span style="color: red">(NEW)</span>:
+* **2024 Fall**: <span style="color: red">(NEW)</span>:
+    * EE698K - Programming for Signal Processing [[link]](stuff/2024_PSP.md)
+* **2024 Spring**: 
     * EE952 - Introduction to Machine Learning (for e-masters) [[link]](stuff/2024_ML_emasters.md)
-* **2024 Spring**: <span style="color: red">(NEW)</span>:
+* **2024 Spring**: 
     * EE798B - Data Structures and Algorithms for Electrical Engineers [[link]](stuff/2024_DSA.md)
-* **2024 Spring**: <span style="color: red">(NEW)</span>:
+* **2024 Spring**: 
     * EE698R - Advanced Topics in Machine Learning [[link]](stuff/2024_ML2.md)
 * **2023 Fall**:
     * EE798P - Audio Representation Learning [[link]](stuff/2023_ARL.md)
