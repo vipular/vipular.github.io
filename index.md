@@ -6,7 +6,7 @@ profile_picture:
 ---
 **Vipul Arora**
 <br>Associate Professor, Department of Electrical Engineering
-<br>Adjunct Faculty, Samtel Centre for Display Technologies and Flexible Electronics
+<br>PK Kelkar Research Fellow
 <br>IIT Kanpur
 <br>**Email:** vipul ar (AT) iitk (.) ac (.) in
 <br>**Office location:** Sustainable Energy Engineering Building, Near Media Labs ([<ins>map</ins>](https://www.google.com/maps/dir//26.5100321,80.2356058/@26.5100738,80.2356058,38m/data=!3m1!1e3!4m2!4m1!3e0))
