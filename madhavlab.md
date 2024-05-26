@@ -4,4 +4,4 @@ title: MadhavLab
 slug: /madhavlab
 ---
 
-Please see https://madhavlab.github.io 
+Please see [https://madhavlab.github.io](https://madhavlab.github.io)
