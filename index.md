@@ -13,7 +13,7 @@ profile_picture:
 <br>**Postal Address:** 305-D, ACES building, IIT Kanpur - 208016 ([<ins>map</ins>](https://www.google.com/maps/place/ACES+%2F+Electrical+Engineering+Department/@26.5130198,80.2321879,19.65z/data=!4m5!3m4!1s0x399c36fe1e36c67f:0x13c8303ef646955!8m2!3d26.5129531!4d80.2320872))
 
 - [MADHAV lab](https://madhavlab.github.io): For latest info on my research, team, publications and open positions.
-- [My calendar](https://outlook.office365.com/owa/calendar/243a78dea07e492f889ea8d6e8ac40a4@iitk.ac.in/c5a3f9c6842a46319bed3258aad346d02708545064820317840/calendar.html) (office hours: WTh 5-6 PM)
+- [My calendar](https://outlook.office365.com/owa/calendar/243a78dea07e492f889ea8d6e8ac40a4@iitk.ac.in/c5a3f9c6842a46319bed3258aad346d02708545064820317840/calendar.html) (office hours: MW 5-6 PM)
 - [GitaSTEM](https://gitastem.substack.com)
 
 ### About me:
