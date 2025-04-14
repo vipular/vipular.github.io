@@ -19,26 +19,18 @@ profile_picture:
 ### About me:
 I work on developing learning based methods mostly for audio processing (music, speech, and other sounds). I have interest in Physics, so I work with Physicists to develop learning based methods for problems in computational Physics too.
 
-My research contributes to (i) audio representation learning for tasks such as audio search, audio event detection and audio annotation, (ii) human-machine learning for accelerating data annotation and for trustworthy machine learning with application to speech, music and audio analysis, (iii) generative machine learning for enhancing Monte Carlo simulations for studying lattices in statistical and particle Physics, and (iv) developing advanced learning-based tools to enhance air quality monitoring at scale.
+My research contributes to (i) audio representation learning for tasks such as audio search, audio event detection and audio annotation, (ii) human-machine learning for accelerating data annotation and for trustworthy machine learning (such as uncertainty estimation) with application to speech, music and audio analysis, (iii) generative machine learning for enhancing Monte Carlo simulations for studying lattices in statistical and particle Physics, and (iv) developing advanced learning-based tools to enhance air quality monitoring at scale.
 
-I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](http://www.iitk.ac.in/ee/) from the [<ins>Indian Institute of Technology (IIT) Kanpur</ins>](http://www.iitk.ac.in/), India. My Ph.D. thesis was titled "[<ins>Analysis of Pitched Polyphonic Music for Source Transcription</ins>](https://drive.google.com/file/d/0By8wZfM49Y2ScC1vc2lVX0I1c1U/view)", where I worked on analyzing music audio to identify and transcribe different instruments/voices playing simultaneously. During postdoc at Oxford University (UK), I developed [<ins>speech recognition</ins>](https://www.youtube.com/watch?v=Tgr3Y_U9BsQ) systems using linguistic principles, with applications in automatic language teacher and speech recognition for low-resource languages. At Amazon in Boston (USA), I worked on audio classification for developing Alexa [<ins>home security</ins>](https://www.theverge.com/2018/9/20/17883428/amazon-alexa-guard-alarm-ring-smart-home-security-price) system, with research focusing on classification with imbalanced data.
+I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](http://www.iitk.ac.in/ee/) from the [<ins>Indian Institute of Technology (IIT) Kanpur</ins>](http://www.iitk.ac.in/), India. During postdoc at Oxford University (UK), I developed [<ins>speech recognition</ins>](https://www.youtube.com/watch?v=Tgr3Y_U9BsQ) systems using linguistic principles, with applications in automatic language teacher and speech recognition for low-resource languages. At Amazon in Boston (USA), I worked on audio classification for developing Alexa [<ins>home security</ins>](https://www.theverge.com/2018/9/20/17883428/amazon-alexa-guard-alarm-ring-smart-home-security-price) system, with research focusing on classification with imbalanced data.
 
 ### Current Research interests:
 Speech, Music, Audio processing
 
-Machine learning:
-- Human-machine learning
-- Audio LLMs
-- Generative Machine Learning
-- Trustworthy AI
-
-Applications:
-- Audio retrieval
-- Speech recognition
-- Computational Physics (Monte Carlo simulations of lattices in QCD)
-- Image generation
-- Music education
-- Sensor calibration
+- Audio LLMs (audio tokenization, speech recognition, audio search and music analysis)
+- Generative Machine Learning (Flow-models, diffusion, Monte carlo sampling) (application in computational Physics)
+- Trustworthy AI (uncertainty estimation and confidence calibration)
+- Human-machine learning (active learning and education)
+- Efficient machine learning (applications in audio and air quality monitoring)
 
 <!-- ## <span style="color: Green">Opportunities:</span>
 
