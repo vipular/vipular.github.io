@@ -4,8 +4,9 @@ profile_picture:
   src: /assets/img/profile-pic.jpg
   alt: website picture
 ---
-<br>Assistant Professor Tenure Track, Department of Electrical Engineering, KU Leuven
-<br>Associate Professor, Department of Electrical Engineering, and PK Kelkar Fellow, IIT Kanpur (on leave)
+- Assistant Professor Tenure Track, Department of Electrical Engineering, KU Leuven
+- Associate Professor, Department of Electrical Engineering, and PK Kelkar Fellow, IIT Kanpur (on leave)
+
 <br>**Email:** 
   - vipul (.) arora (AT) kuleuven (.) be 
   - vipul ar (AT) iitk (.) ac (.) in
