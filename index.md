@@ -5,19 +5,21 @@ profile_picture:
   alt: website picture
 ---
 **Vipul Arora**
-<br>Associate Professor, Department of Electrical Engineering
-<br>PK Kelkar Fellow
-<br>IIT Kanpur
-<br>**Email:** vipul ar (AT) iitk (.) ac (.) in
-<br>**Office location:** Sustainable Energy Engineering Building, Near Media Labs ([<ins>map</ins>](https://www.google.com/maps/dir//26.5100321,80.2356058/@26.5100738,80.2356058,38m/data=!3m1!1e3!4m2!4m1!3e0))
-<br>**Postal Address:** 305-D, ACES building, IIT Kanpur - 208016 ([<ins>map</ins>](https://www.google.com/maps/place/ACES+%2F+Electrical+Engineering+Department/@26.5130198,80.2321879,19.65z/data=!4m5!3m4!1s0x399c36fe1e36c67f:0x13c8303ef646955!8m2!3d26.5129531!4d80.2320872))
+<br>Assistant Professor Tenure Track, Department of Electrical Engineering, KU Leuven
+<br>Associate Professor, Department of Electrical Engineering, and PK Kelkar Fellow, IIT Kanpur (on leave)
+<br>**Email:** 
+  - vipul (.) arora (AT) kuleuven (.) be 
+  - vipul ar (AT) iitk (.) ac (.) in
+
+<!-- **Office location:** Sustainable Energy Engineering Building, Near Media Labs ([<ins>map</ins>](https://www.google.com/maps/dir//26.5100321,80.2356058/@26.5100738,80.2356058,38m/data=!3m1!1e3!4m2!4m1!3e0))
+<br>**Postal Address:** 305-D, ACES building, IIT Kanpur - 208016 ([<ins>map</ins>](https://www.google.com/maps/place/ACES+%2F+Electrical+Engineering+Department/@26.5130198,80.2321879,19.65z/data=!4m5!3m4!1s0x399c36fe1e36c67f:0x13c8303ef646955!8m2!3d26.5129531!4d80.2320872)) -->
+**Office location:** Room 01.04, Kasteelpark Arenberg 10, Leuven 3001
 
 - [MADHAV lab](https://madhavlab.github.io): For latest info on my research, team, publications and open positions.
-- [My calendar](https://outlook.office365.com/owa/calendar/243a78dea07e492f889ea8d6e8ac40a4@iitk.ac.in/c5a3f9c6842a46319bed3258aad346d02708545064820317840/calendar.html) (office hours: MW 5-6 PM)
 - [GitaSTEM](https://gitastem.substack.com)
 
 ### About me:
-I work on developing learning based methods mostly for audio processing (music, speech, and other sounds). I have interest in Physics, so I work with Physicists to develop learning based methods for problems in computational Physics too.
+I work on developing AI methods mostly for audio processing (music, speech, and other sounds). I have interest in Physics, so I work with Physicists to develop AI methods for problems in computational Physics too.
 
 My research contributes to (i) audio representation learning for tasks such as audio search, audio event detection and audio annotation, (ii) human-machine learning for accelerating data annotation and for trustworthy machine learning (such as uncertainty estimation) with application to speech, music and audio analysis, (iii) generative machine learning for enhancing Monte Carlo simulations for studying lattices in statistical and particle Physics, and (iv) developing advanced learning-based tools to enhance air quality monitoring at scale.
 
