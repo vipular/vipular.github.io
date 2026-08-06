@@ -4,26 +4,21 @@ profile_picture:
   src: /assets/img/profile-pic.jpg
   alt: website picture
 ---
-- Assistant Professor Tenure Track, Department of Electrical Engineering, KU Leuven
-- Associate Professor, Department of Electrical Engineering, and PK Kelkar Fellow, IIT Kanpur (on leave)
+Assistant Professor Tenure Track, Department of Electrical Engineering (ESAT), KU Leuven
 
 <br>**Email:** 
   - vipul (.) arora (AT) kuleuven (.) be 
-  - vipul ar (AT) iitk (.) ac (.) in
 
 <!-- **Office location:** Sustainable Energy Engineering Building, Near Media Labs ([<ins>map</ins>](https://www.google.com/maps/dir//26.5100321,80.2356058/@26.5100738,80.2356058,38m/data=!3m1!1e3!4m2!4m1!3e0))
 <br>**Postal Address:** 305-D, ACES building, IIT Kanpur - 208016 ([<ins>map</ins>](https://www.google.com/maps/place/ACES+%2F+Electrical+Engineering+Department/@26.5130198,80.2321879,19.65z/data=!4m5!3m4!1s0x399c36fe1e36c67f:0x13c8303ef646955!8m2!3d26.5129531!4d80.2320872)) -->
 **Office location:** Room 01.04, Kasteelpark Arenberg 10, Leuven 3001
 
-- [MADHAV lab](https://madhavlab.github.io): For latest info on my research, team, publications and open positions.
-- [GitaSTEM](https://gitastem.substack.com)
-
 ### About me:
-I work on developing AI methods mostly for audio processing (music, speech, and other sounds). I have interest in Physics, so I work with Physicists to develop AI methods for problems in computational Physics too.
+I work on developing AI methods mostly for audio processing (music, speech, and other sounds). I have interest in Physics, so I work with Physicists to develop AI methods for problems in computational Physics.
 
 My research contributes to (i) audio representation learning for tasks such as audio search, audio event detection and audio annotation, (ii) human-machine learning for accelerating data annotation and for trustworthy machine learning (such as uncertainty estimation) with application to speech, music and audio analysis, (iii) generative machine learning for enhancing Monte Carlo simulations for studying lattices in statistical and particle Physics, and (iv) developing advanced learning-based tools to enhance air quality monitoring at scale.
 
-I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](http://www.iitk.ac.in/ee/) from the [<ins>Indian Institute of Technology (IIT) Kanpur</ins>](http://www.iitk.ac.in/), India. During postdoc at Oxford University (UK), I developed [<ins>speech recognition</ins>](https://www.youtube.com/watch?v=Tgr3Y_U9BsQ) systems using linguistic principles, with applications in automatic language teacher and speech recognition for low-resource languages. At Amazon in Boston (USA), I worked on audio classification for developing Alexa [<ins>home security</ins>](https://www.theverge.com/2018/9/20/17883428/amazon-alexa-guard-alarm-ring-smart-home-security-price) system, with research focusing on classification with imbalanced data.
+I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](http://www.iitk.ac.in/ee/) from the [<ins>Indian Institute of Technology (IIT) Kanpur</ins>](http://www.iitk.ac.in/), India. During postdoc at Oxford University (UK), I developed [<ins>speech recognition</ins>](https://www.youtube.com/watch?v=Tgr3Y_U9BsQ) systems using linguistic principles, with applications in automatic language teacher and speech recognition for low-resource languages. At Amazon in Boston (USA), I worked on audio classification for developing Alexa [<ins>home security</ins>](https://www.theverge.com/2018/9/20/17883428/amazon-alexa-guard-alarm-ring-smart-home-security-price) system, with research focusing on classification with imbalanced data. From 2018 to 2026, I served as an Assistant Professor and then an Associate Professor at the Department of Electrical Engineering, IIT Kanpur. Since 2025, I have been serving as a tenure-track Assistant Professor at ESAT, KU Leuven.
 
 ### Current Research interests:
 Speech, Music, Audio processing
@@ -32,7 +27,11 @@ Speech, Music, Audio processing
 - Generative Machine Learning (Flow-models, diffusion, Monte carlo sampling) (application in computational Physics)
 - Trustworthy AI (uncertainty estimation and confidence calibration)
 - Human-machine learning (active learning and education)
-- Efficient machine learning (applications in audio and air quality monitoring)
+
+### Webpages
+- [My page at KU Leuven](https://www.kuleuven.be/wieiswie/en/person/00177787)
+- [MADHAV lab](https://madhavlab.github.io): For latest info on my research, team, publications and open positions.
+- [GitaSTEM](https://gitastem.substack.com)
 
 <!-- ## <span style="color: Green">Opportunities:</span>
 
