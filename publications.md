@@ -11,7 +11,7 @@ slug: /publications
 * Vipul Arora, Aditi Lahiri and Henning Reetz, "System and Method for Automatic Speech Analysis", filed in USA, 2021.
 * Vipul Arora, "System and method for Music Training", filed in India, 2021
 * Vipul Arora, Aditi Lahiri and Henning Reetz, "System and Method for Automatic Speech Analysis", WO 2018/193241, filed in Great Britain, April 2017.
-* Vipul Arora, Aditi Lahiri and Henning Reetz, "System and Method for Automatic Speech Analysis", EP3613046A1, European patent office, Feb 2020 (pending)
+* Vipul Arora, Aditi Lahiri and Henning Reetz, "System and Method for Automatic Speech Analysis", EP3613046A1, European patent office, Feb 2020.
 
 
 ## <span style="color:green">Journal Publications</span>
