@@ -5,7 +5,9 @@ slug: /teaching
 ---
 ## Courses
 
-* **2026 Spring**: <span style="color: red">(NEW)</span>
+* **2026 Fall**: <span style="color: red">(NEW)</span>
+    * H09K5a: Audio, Speech and Language Processing [[link]](stuff/2026_ASLP.md)
+* **2026 Spring**:
     * H02A6a: Speech Recognition [[link]](stuff/2026_ASR.md)
 * **2025 Spring**:
     * EE698R - Advanced Topics in Machine Learning [[link]](stuff/2025_ML2.md)
